@@ -1,0 +1,630 @@
+degree,section,course_code,course_name
+Bachelor of Agricultural Sciences,Electives,AGRI1000,Agricultural Production
+Bachelor of Agricultural Sciences,Electives,AGRI1002,Agricultural Systems
+Bachelor of Agricultural Sciences,Electives,AGRI1003,Soils and Landscapes
+Bachelor of Agricultural Sciences,Electives,AGRI2004,Soil and Water Resources 2
+Bachelor of Agricultural Sciences,Electives,AGRI2006,Agricultural Biochemistry
+Bachelor of Agricultural Sciences,Electives,AGRI2007,Crop and Pasture Production II
+Bachelor of Agricultural Sciences,Electives,AGRI2010,Agribusiness
+Bachelor of Agricultural Sciences,Electives,AGRI2013,Microbiology and Invertebrate Biology
+Bachelor of Agricultural Sciences,Electives,AGRI3003,Agricultural Economics and Policy
+Bachelor of Agricultural Sciences,Electives,AGRI3007,Agricultural Experimental Design and Analysis
+Bachelor of Agricultural Sciences,Electives,ANIM2006,Livestock Production 2
+Bachelor of Agricultural Sciences,Electives,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Agricultural Sciences,Electives,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Agricultural Sciences,Electives,BIOL2010,Agricultural Genetics
+Bachelor of Agricultural Sciences,Electives,BIOL2024,Foundations in Plant Science
+Bachelor of Agricultural Sciences,Electives,CHEM1000,Foundations in Chemistry
+Bachelor of Agricultural Sciences,Electives,CHEM1002,Chemistry 1A
+Bachelor of Agricultural Sciences,Electives,STAT1000,Data Skills for Scientists
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1002,Agricultural Systems
+Bachelor of Agricultural Sciences,Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Agricultural Sciences,Standard study plans,CHEM1000,Foundations in Chemistry
+Bachelor of Agricultural Sciences,Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1000,Agricultural Production
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1003,Soils and Landscapes
+Bachelor of Agricultural Sciences,Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Agricultural Sciences,Standard study plans,CHEM1002,Chemistry 1A
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2004,Soil and Water Resources 2
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2006,Agricultural Biochemistry
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2013,Microbiology and Invertebrate Biology
+Bachelor of Agricultural Sciences,Standard study plans,BIOL2024,Foundations in Plant Science
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2007,Crop and Pasture Production II
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2010,Agribusiness
+Bachelor of Agricultural Sciences,Standard study plans,ANIM2006,Livestock Production 2
+Bachelor of Agricultural Sciences,Standard study plans,BIOL2010,Agricultural Genetics
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3003,Agricultural Economics and Policy
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3007,Agricultural Experimental Design and Analysis
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3004,Professional Skills in Agricultural Science 3
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3004,Professional Skills in Agricultural Science 3
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1002,Agricultural Systems
+Bachelor of Agricultural Sciences,Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Agricultural Sciences,Standard study plans,CHEM1000,Foundations in Chemistry
+Bachelor of Agricultural Sciences,Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1000,Agricultural Production
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1003,Soils and Landscapes
+Bachelor of Agricultural Sciences,Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Agricultural Sciences,Standard study plans,CHEM1002,Chemistry 1A
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2004,Soil and Water Resources 2
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2006,Agricultural Biochemistry
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2013,Microbiology and Invertebrate Biology
+Bachelor of Agricultural Sciences,Standard study plans,BIOL2024,Foundations in Plant Science
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2007,Crop and Pasture Production II
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2010,Agribusiness
+Bachelor of Agricultural Sciences,Standard study plans,ANIM2006,Livestock Production 2
+Bachelor of Agricultural Sciences,Standard study plans,BIOL2010,Agricultural Genetics
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3003,Agricultural Economics and Policy
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3007,Agricultural Experimental Design and Analysis
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3004,Professional Skills in Agricultural Science 3
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Program Electives,AGRI3000,Innovation in Agronomy 3
+Bachelor of Agricultural Sciences,Program Electives,AGRI3009,Horticultural Production and Quality 3
+Bachelor of Agricultural Sciences,Program Electives,AGRI3011,Soil and Water Management and Conservation 3
+Bachelor of Agricultural Sciences,Program Electives,AGRI3013,Soil and Plant Nutrition
+Bachelor of Agricultural Sciences,Program Electives,AGRI3014,Soil Ecology and Nutrient Cycling 3
+Bachelor of Agricultural Sciences,Program Electives,AGRI3015,Research Project in Agricultural and Plant Science
+Bachelor of Agricultural Sciences,Program Electives,ANIM3003,Animal Nutrition and Metabolism 3
+Bachelor of Agricultural Sciences,Program Electives,ANIM3008,Animal Breeding and Genetics
+Bachelor of Agricultural Sciences,Program Electives,ANIM3009,Intensive Animal Production Science 3
+Bachelor of Agricultural Sciences,Program Electives,BIOL3016,Plant Breeding
+Bachelor of Agricultural Sciences,Program Electives,BIOL3017,Plant Biotechnology
+Bachelor of Agricultural Sciences,Program Electives,BIOL3018,Plant Health
+Bachelor of Agricultural Sciences,Program Electives,BIOLX100,Animal Biotechnology
+Bachelor of Agricultural Sciences,Program Electives,BUSI1005,eChallenge
+Bachelor of Agricultural Sciences,Program Electives,EART3011,Research Project: Soil and Land Systems 3
+Bachelor of Agricultural Sciences,Program Electives,ECON6012,Experiences and Insights in Agri-food Systems
+Bachelor of Agricultural Sciences,Program Electives,ENVI3008,GIS for Agriculture and Natural Resources
+Bachelor of Agricultural Sciences,Program Electives,FOODX300,Food Production in a Future Climate
+Bachelor of Agricultural Sciences,Program Electives,SCIE3013,Science Study Tour
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1002,Agricultural Systems
+Bachelor of Agricultural Sciences,Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Agricultural Sciences,Standard study plans,CHEM1000,Foundations in Chemistry
+Bachelor of Agricultural Sciences,Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1000,Agricultural Production
+Bachelor of Agricultural Sciences,Standard study plans,AGRI1003,Soils and Landscapes
+Bachelor of Agricultural Sciences,Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Agricultural Sciences,Standard study plans,CHEM1002,Chemistry 1A
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2004,Soil and Water Resources 2
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2006,Agricultural Biochemistry
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2013,Microbiology and Invertebrate Biology
+Bachelor of Agricultural Sciences,Standard study plans,BIOL2024,Foundations in Plant Science
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2007,Crop and Pasture Production II
+Bachelor of Agricultural Sciences,Standard study plans,AGRI2010,Agribusiness
+Bachelor of Agricultural Sciences,Standard study plans,ANIM2006,Livestock Production 2
+Bachelor of Agricultural Sciences,Standard study plans,BIOL2010,Agricultural Genetics
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3003,Agricultural Economics and Policy
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3007,Agricultural Experimental Design and Analysis
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,AGRI3004,Professional Skills in Agricultural Science 3
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Agricultural Sciences,Standard study plans,-,Elective
+Bachelor of Science (Honours) majoring in Animal Behaviour,Program core,SCIE1001,"Science of People, Society and the Future Planet"
+Bachelor of Science (Honours) majoring in Animal Behaviour,Program core,STAT1000,Data Skills for Scientists
+Bachelor of Science (Honours) majoring in Animal Behaviour,Common Core,COREX001,An Ethically Rich Life
+Bachelor of Science (Honours) majoring in Animal Behaviour,Common Core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Science (Honours) majoring in Animal Behaviour,Common Core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Science (Honours) majoring in Animal Behaviour,Common Core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Science (Honours) majoring in Animal Behaviour,Common Core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Science (Honours) majoring in Animal Behaviour,Common Core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,CHEM1000,Foundations in Chemistry
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,CHEM1002,Chemistry 1A
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,CHEM1003,Chemistry 1B
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,EART1000,Planet Earth
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,EART1012,"Earth, Climate and Life Systems"
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,MATH1000,Foundations in Mathematics
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,MATH1004,Calculus 1
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,MATH1005,Calculus 2
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,PHYS1000,Foundations in Physics
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,PHYS1001,Physics 1A
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,PHYS1002,Physics 1B
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,MATHX202,Differential Equations
+Bachelor of Science (Honours) majoring in Animal Behaviour,Core Selective,MATHX104,Linear Algebra
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM1000,Animal Handling and Husbandry
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM2002,Comparative Animal Anatomy and Physiology 2
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM2013,Foundations in Animal Behaviour 2
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM3001,Animal Management 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM3002,The Science of Enrichment and Animal Learning 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM3004,Research Methodology for Animal Science 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,PSYC1001,Understanding Individual Behaviour and Cognition
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM3005,Professional Skills in Animal Science
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM3900,Advanced Applications in Animal Behaviour
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,BIOL2900,Molecular and Biomedical Science Practical 2
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,BIOL3007,Molecular and Biomedical Sciences Practical 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,BIOL3012,Microbiology and Immunology Practical 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,BIOL3900,Genetics Practical 3A
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,EART3002,Field Palaeontology 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,EART3003,Field Geoscience Program 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,PHYS3004,Optics and Photonics 3
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,PHYSX300,Computational Physics
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,PHYSX301,Experimental Physics
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,SCIE3900,Science Professional Placement
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,SCIE3901,Science Professional Project
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,BIOL2016,Genetics Practical 3B
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,EART3004,Geophysics 3C: Seismic Processing and Interpretation
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM4002,Advanced Animal Science Pt 2 (Hons)
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,EART4004,Communicating Science
+Bachelor of Science (Honours) majoring in Animal Behaviour,Rules and notes,ANIM4001,Honours Animal Studies Project
+Bachelor of Science (Veterinary Bioscience),Core courses,ANIM1000,Animal Handling and Husbandry
+Bachelor of Science (Veterinary Bioscience),Core courses,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Science (Veterinary Bioscience),Core courses,ANIM2005,Genes and Inheritance 2
+Bachelor of Science (Veterinary Bioscience),Core courses,ANIM2012,Animal Biochemistry 2
+Bachelor of Science (Veterinary Bioscience),Core courses,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science (Veterinary Bioscience),Core courses,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science (Veterinary Bioscience),Core courses,OCCU6006,Professional  Skills in Veterinary Bioscience  III
+Bachelor of Science (Veterinary Bioscience),Core courses,STAT1000,Data Skills for Scientists
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS1005,Principles of Veterinary Nursing
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS2012,Animal Nutrition & Metabolism II (Vet Bio)
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS2013,Veterinary Anatomy & Physiology II Part 1
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS2014,Veterinary Anatomy & Physiology II Part 2
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS3002,Veterinary Immunology and Infectious Diseases III
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS3004,Veterinary Parasitology
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS3012,Veterinary Epidemiology & Evidence-Based Medicine III
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS3013,Veterinary Anatomy & Physiology III Part 1
+Bachelor of Science (Veterinary Bioscience),Core courses,VETS3014,Veterinary Anatomy & Physiology III Part 2
+Bachelor of Science (Veterinary Bioscience),Chemistry core courses,CHEM1000,Foundations in Chemistry
+Bachelor of Science (Veterinary Bioscience),Chemistry core courses,CHEM1002,Chemistry 1A
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM1000,Animal Handling and Husbandry
+Bachelor of Science (Veterinary Bioscience),Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS1005,Principles of Veterinary Nursing
+Bachelor of Science (Veterinary Bioscience),Standard study plans,-,
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Science (Veterinary Bioscience),Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science (Veterinary Bioscience),Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Science (Veterinary Bioscience),Standard study plans,-,Elective
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2001,Professional Skills in Veterinary Bioscience II
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM2012,Animal Biochemistry 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2013,Veterinary Anatomy & Physiology II Part 1
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM2005,Genes and Inheritance 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2012,Animal Nutrition & Metabolism II (Vet Bio)
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2014,Veterinary Anatomy & Physiology II Part 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3002,Veterinary Immunology and Infectious Diseases III
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3013,Veterinary Anatomy & Physiology III Part 1
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3004,Veterinary Parasitology
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3012,Veterinary Epidemiology & Evidence-Based Medicine III
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3014,Veterinary Anatomy & Physiology III Part 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,OCCU6006,Professional  Skills in Veterinary Bioscience  III
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2001,Professional Skills in Veterinary Bioscience II
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM1000,Animal Handling and Husbandry
+Bachelor of Science (Veterinary Bioscience),Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS1005,Principles of Veterinary Nursing
+Bachelor of Science (Veterinary Bioscience),Standard study plans,-,
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Science (Veterinary Bioscience),Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science (Veterinary Bioscience),Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Science (Veterinary Bioscience),Standard study plans,-,Elective
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2001,Professional Skills in Veterinary Bioscience II
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM2012,Animal Biochemistry 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2013,Veterinary Anatomy & Physiology II Part 1
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM2005,Genes and Inheritance 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2012,Animal Nutrition & Metabolism II (Vet Bio)
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2014,Veterinary Anatomy & Physiology II Part 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3002,Veterinary Immunology and Infectious Diseases III
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3013,Veterinary Anatomy & Physiology III Part 1
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3004,Veterinary Parasitology
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3012,Veterinary Epidemiology & Evidence-Based Medicine III
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3014,Veterinary Anatomy & Physiology III Part 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,OCCU6006,Professional  Skills in Veterinary Bioscience  III
+Bachelor of Science (Veterinary Bioscience),Program Electives,AGRI1000,Agricultural Production
+Bachelor of Science (Veterinary Bioscience),Program Electives,BIOL1032,Ecological Issues 1
+Bachelor of Science (Veterinary Bioscience),Program Electives,SCIE1001,"Science of People, Society and the Future Planet"
+Bachelor of Science (Veterinary Bioscience),Program Electives,AUXX1000,UG Common Core 1
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM1000,Animal Handling and Husbandry
+Bachelor of Science (Veterinary Bioscience),Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS1005,Principles of Veterinary Nursing
+Bachelor of Science (Veterinary Bioscience),Standard study plans,-,
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Science (Veterinary Bioscience),Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science (Veterinary Bioscience),Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Science (Veterinary Bioscience),Standard study plans,-,Elective
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2001,Professional Skills in Veterinary Bioscience II
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM2012,Animal Biochemistry 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2013,Veterinary Anatomy & Physiology II Part 1
+Bachelor of Science (Veterinary Bioscience),Standard study plans,ANIM2005,Genes and Inheritance 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2012,Animal Nutrition & Metabolism II (Vet Bio)
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS2014,Veterinary Anatomy & Physiology II Part 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3002,Veterinary Immunology and Infectious Diseases III
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3013,Veterinary Anatomy & Physiology III Part 1
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3004,Veterinary Parasitology
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3012,Veterinary Epidemiology & Evidence-Based Medicine III
+Bachelor of Science (Veterinary Bioscience),Standard study plans,VETS3014,Veterinary Anatomy & Physiology III Part 2
+Bachelor of Science (Veterinary Bioscience),Standard study plans,OCCU6006,Professional  Skills in Veterinary Bioscience  III
+Bachelor of Science majoring in Animal Behaviour,Program Core,SCIE1001,"Science of People, Society and the Future Planet"
+Bachelor of Science majoring in Animal Behaviour,Program Core,STAT1000,Data Skills for Scientists
+Bachelor of Science majoring in Animal Behaviour,Common Core,COREX001,An Ethically Rich Life
+Bachelor of Science majoring in Animal Behaviour,Common Core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Science majoring in Animal Behaviour,Common Core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Science majoring in Animal Behaviour,Common Core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Science majoring in Animal Behaviour,Common Core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Science majoring in Animal Behaviour,Common Core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Science majoring in Animal Behaviour,Core Selective,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science majoring in Animal Behaviour,Core Selective,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science majoring in Animal Behaviour,Core Selective,CHEM1000,Foundations in Chemistry
+Bachelor of Science majoring in Animal Behaviour,Core Selective,CHEM1002,Chemistry 1A
+Bachelor of Science majoring in Animal Behaviour,Core Selective,CHEM1003,Chemistry 1B
+Bachelor of Science majoring in Animal Behaviour,Core Selective,EART1000,Planet Earth
+Bachelor of Science majoring in Animal Behaviour,Core Selective,EART1012,"Earth, Climate and Life Systems"
+Bachelor of Science majoring in Animal Behaviour,Core Selective,MATH1000,Foundations in Mathematics
+Bachelor of Science majoring in Animal Behaviour,Core Selective,MATH1004,Calculus 1
+Bachelor of Science majoring in Animal Behaviour,Core Selective,MATH1005,Calculus 2
+Bachelor of Science majoring in Animal Behaviour,Core Selective,PHYS1000,Foundations in Physics
+Bachelor of Science majoring in Animal Behaviour,Core Selective,PHYS1001,Physics 1A
+Bachelor of Science majoring in Animal Behaviour,Core Selective,PHYS1002,Physics 1B
+Bachelor of Science majoring in Animal Behaviour,Core Selective,MATHX104,Linear Algebra
+Bachelor of Science majoring in Animal Behaviour,Core Selective,MATHX202,Differential Equations
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM2002,Comparative Animal Anatomy and Physiology
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM2013,Foundations of Animal Behaviour
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM3001,Animal Management
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM3002,The Science of Enrichment and Animal Learning
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM3004,Research Methodology for Animal Science 3
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,PSYC1001,Understanding Individual Behaviour and Cognition
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM1000,Animal Handling and Husbandry
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM1001,"Principles in Animal Behaviour, Welfare and Ethics"
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM3005,Professional Skills in Animal Science
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,ANIM3900,Advanced Applications in Animal Behaviour
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,BIOL2900,Molecular and Biomedical Science Practical 2
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,BIOL3007,Molecular and Biomedical Sciences Practical 3
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,BIOL3012,Microbiology and Immunology Practical 3
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,BIOL3900,Genetics Practical 3A
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,EART3002,Field Palaeontology 3
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,EART3003,Field Geoscience Program 3
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,PHYS3004,Optics and Photonics 3
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,PHYSX300,Computational Physics
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,PHYSX301,Experimental Physics
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,SCIE3900,Science Professional Placement
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,SCIE3901,Science Professional Project
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,BIOL2016,Genetics Practical 3B
+Bachelor of Science majoring in Animal Behaviour,Rules and notes,EART3004,Geophysics 3C: Seismic Processing and Interpretation
+Bachelor of Science majoring in Animal Science,Program Core,SCIE1001,"Science of People, Society and the Future Planet"
+Bachelor of Science majoring in Animal Science,Program Core,STAT1000,Data Skills for Scientists
+Bachelor of Science majoring in Animal Science,Common Core,COREX001,An Ethically Rich Life
+Bachelor of Science majoring in Animal Science,Common Core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Science majoring in Animal Science,Common Core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Science majoring in Animal Science,Common Core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Science majoring in Animal Science,Common Core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Science majoring in Animal Science,Common Core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Science majoring in Animal Science,Core Selective,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science majoring in Animal Science,Core Selective,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science majoring in Animal Science,Core Selective,CHEM1000,Foundations in Chemistry
+Bachelor of Science majoring in Animal Science,Core Selective,CHEM1002,Chemistry 1A
+Bachelor of Science majoring in Animal Science,Core Selective,CHEM1003,Chemistry 1B
+Bachelor of Science majoring in Animal Science,Core Selective,EART1000,Planet Earth
+Bachelor of Science majoring in Animal Science,Core Selective,EART1012,"Earth, Climate and Life Systems"
+Bachelor of Science majoring in Animal Science,Core Selective,MATH1000,Foundations in Mathematics
+Bachelor of Science majoring in Animal Science,Core Selective,MATH1004,Calculus 1
+Bachelor of Science majoring in Animal Science,Core Selective,MATH1005,Calculus 2
+Bachelor of Science majoring in Animal Science,Core Selective,PHYS1000,Foundations in Physics
+Bachelor of Science majoring in Animal Science,Core Selective,PHYS1001,Physics 1A
+Bachelor of Science majoring in Animal Science,Core Selective,PHYS1002,Physics 1B
+Bachelor of Science majoring in Animal Science,Core Selective,MATHX104,Linear Algebra
+Bachelor of Science majoring in Animal Science,Core Selective,MATHX202,Differential Equations
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM1000,Animal Handling and Husbandry
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM2002,Comparative Animal Anatomy and Physiology 2
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM2004,"Animal Microbiology, Virology and Immunology 2"
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM2005,Genes and Inheritance 2
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM2006,Livestock Production 2
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM2012,Animal Biochemistry 2
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM3000,Animal Health 3
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM3003,Animal Nutrition and Metabolism 3
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM3004,Research Methodology for Animal Science 3
+Bachelor of Science majoring in Animal Science,Rules and notes,ENVI2006,Wildlife Management 2
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM3005,Professional Skills in Animal Science
+Bachelor of Science majoring in Animal Science,Rules and notes,ANIM3900,Advanced Applications in Animal Behaviour
+Bachelor of Science majoring in Animal Science,Rules and notes,BIOL2900,Molecular and Biomedical Science Practical 2
+Bachelor of Science majoring in Animal Science,Rules and notes,BIOL3007,Molecular and Biomedical Sciences Practical 3
+Bachelor of Science majoring in Animal Science,Rules and notes,BIOL3012,Microbiology and Immunology Practical 3
+Bachelor of Science majoring in Animal Science,Rules and notes,BIOL3900,Genetics Practical 3A
+Bachelor of Science majoring in Animal Science,Rules and notes,EART3002,Field Palaeontology 3
+Bachelor of Science majoring in Animal Science,Rules and notes,EART3003,Field Geoscience Program 3
+Bachelor of Science majoring in Animal Science,Rules and notes,PHYS3004,Optics and Photonics 3
+Bachelor of Science majoring in Animal Science,Rules and notes,PHYSX300,Computational Physics
+Bachelor of Science majoring in Animal Science,Rules and notes,PHYSX301,Experimental Physics
+Bachelor of Science majoring in Animal Science,Rules and notes,SCIE3900,Science Professional Placement
+Bachelor of Science majoring in Animal Science,Rules and notes,SCIE3901,Science Professional Project
+Bachelor of Science majoring in Animal Science,Rules and notes,BIOL2016,Genetics Practical 3B
+Bachelor of Science majoring in Animal Science,Rules and notes,EART3004,Geophysics 3C: Seismic Processing and Interpretation
+Bachelor of Science majoring in Marine and Wildlife Conservation,Program Core,SCIE1001,"Science of People, Society and the Future Planet"
+Bachelor of Science majoring in Marine and Wildlife Conservation,Program Core,STAT1000,Data Skills for Scientists
+Bachelor of Science majoring in Marine and Wildlife Conservation,Common Core,COREX001,An Ethically Rich Life
+Bachelor of Science majoring in Marine and Wildlife Conservation,Common Core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Science majoring in Marine and Wildlife Conservation,Common Core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Science majoring in Marine and Wildlife Conservation,Common Core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Science majoring in Marine and Wildlife Conservation,Common Core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Science majoring in Marine and Wildlife Conservation,Common Core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,CHEM1000,Foundations in Chemistry
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,CHEM1002,Chemistry 1A
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,CHEM1003,Chemistry 1B
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,EART1000,Planet Earth
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,EART1012,"Earth, Climate and Life Systems"
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,MATH1000,Foundations in Mathematics
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,MATH1004,Calculus 1
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,MATH1005,Calculus 2
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,PHYS1000,Foundations in Physics
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,PHYS1001,Physics 1A
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,PHYS1002,Physics 1B
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,MATHX104,Linear Algebra
+Bachelor of Science majoring in Marine and Wildlife Conservation,Core Selective,MATHX202,Differential Equations
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL1032,Ecological Issues
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2004,Zoology
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2009,Marine and Wildlife Conservation
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2023,Botany
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2049,Plant Identification
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2050,Animal Identification in Wildlife Conservation
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2051,Principles of Ecology
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL3013,"Research Methods: Ecology, Marine and Wildlife"
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL3032,Marine Ecology
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL3037,Conservation Biology
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL3038,Advanced Concepts in Ecology
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,SCIE2000,Scientific Data: Analysis and Visualisation
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,ANIM3005,Professional Skills in Animal Science
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,ANIM3900,Advanced Applications in Animal Behaviour
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2900,Molecular and Biomedical Science Practical 2
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL3007,Molecular and Biomedical Sciences Practical 3
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL3012,Microbiology and Immunology Practical 3
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL3900,Genetics Practical 3A
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,EART3002,Field Palaeontology 3
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,EART3003,Field Geoscience Program 3
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,PHYS3004,Optics and Photonics 3
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,PHYSX300,Computational Physics
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,PHYSX301,Experimental Physics
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,SCIE3900,Science Professional Placement
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,SCIE3901,Science Professional Project
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,BIOL2016,Genetics Practical 3B
+Bachelor of Science majoring in Marine and Wildlife Conservation,Rules and notes,EART3004,Geophysics 3C: Seismic Processing and Interpretation
+Bachelor of Veterinary Technology,Electives,ANIM1000,Animal Handling and Husbandry
+Bachelor of Veterinary Technology,Electives,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Veterinary Technology,Electives,VETS1000,Foundations of Science for Veterinary Technologists
+Bachelor of Veterinary Technology,Electives,VETS1001,Introduction to Mechanisms of Health
+Bachelor of Veterinary Technology,Electives,VETS1002,Anatomy for Veterinary Technologists
+Bachelor of Veterinary Technology,Electives,VETS1003,Physiology for Veterinary Technologists
+Bachelor of Veterinary Technology,Electives,VETS1004,Evidence-based Veterinary Technology
+Bachelor of Veterinary Technology,Electives,ANIM2004,"Animal Microbiology, Virology and Immunology 2"
+Bachelor of Veterinary Technology,Electives,VETS2006,Clinical Studies A
+Bachelor of Veterinary Technology,Electives,VETS2007,Clinical Studies B
+Bachelor of Veterinary Technology,Electives,VETS2008,"Pharmacology, Pharmacy and Therapeutics 2"
+Bachelor of Veterinary Technology,Electives,VETS2009,Introduction to Workplace Skills 2
+Bachelor of Veterinary Technology,Electives,VETS2010,Pathology for Veterinary Technologists 2
+Bachelor of Veterinary Technology,Electives,VETS2011,Advanced Animal Husbandry for Veterinary Technologists
+Bachelor of Veterinary Technology,Electives,VETS2015,"Biosecurity, Epidemiology and Food Safety for Veterinary Technologists"
+Bachelor of Veterinary Technology,Electives,VETS3007,Managing Animals in Emergencies
+Bachelor of Veterinary Technology,Electives,VETS3008,Transition to the Veterinary Technology Profession 3 Part A
+Bachelor of Veterinary Technology,Electives,VETS1005,Principles of Veterinary Nursing
+Bachelor of Veterinary Technology,Electives,VETS3009,Transition to the Veterinary Technology Profession 3 Part B
+Bachelor of Veterinary Technology,Standard study plans,ANIM1000,Animal Handling and Husbandry
+Bachelor of Veterinary Technology,Standard study plans,VETS1000,Foundations of Science for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1002,Anatomy for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1005,Principles of Veterinary Nursing
+Bachelor of Veterinary Technology,Standard study plans,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Veterinary Technology,Standard study plans,VETS1001,Introduction to Mechanisms of Health
+Bachelor of Veterinary Technology,Standard study plans,VETS1003,Physiology for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1004,Evidence-based Veterinary Technology
+Bachelor of Veterinary Technology,Standard study plans,ANIM2004,"Animal Microbiology, Virology and Immunology 2"
+Bachelor of Veterinary Technology,Standard study plans,VETS2009,Introduction to Workplace Skills 2
+Bachelor of Veterinary Technology,Standard study plans,VETS2010,Pathology for Veterinary Technologists 2
+Bachelor of Veterinary Technology,Standard study plans,VETS2006,Clinical Studies A
+Bachelor of Veterinary Technology,Standard study plans,VETS2008,"Pharmacology, Pharmacy and Therapeutics 2"
+Bachelor of Veterinary Technology,Standard study plans,VETS2015,"Biosecurity, Epidemiology and Food Safety for Veterinary Technologists"
+Bachelor of Veterinary Technology,Standard study plans,VETS2011,Advanced Animal Husbandry for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS2007,Clinical Studies B
+Bachelor of Veterinary Technology,Standard study plans,VETS3006,Clinical Skills in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,VETS3008,Transition to the Veterinary Technology Profession 3 Part A
+Bachelor of Veterinary Technology,Standard study plans,VETS3007,Managing Animals in Emergencies
+Bachelor of Veterinary Technology,Standard study plans,VETS3010,Clinical Practice in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,VETS3009,Transition to the Veterinary Technology Profession 3 Part B
+Bachelor of Veterinary Technology,Standard study plans,-,Elective
+Bachelor of Veterinary Technology,Standard study plans,VETS3006,Clinical Skills in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,VETS3010,Clinical Practice in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,ANIM1000,Animal Handling and Husbandry
+Bachelor of Veterinary Technology,Standard study plans,VETS1000,Foundations of Science for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1002,Anatomy for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1005,Principles of Veterinary Nursing
+Bachelor of Veterinary Technology,Standard study plans,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Veterinary Technology,Standard study plans,VETS1001,Introduction to Mechanisms of Health
+Bachelor of Veterinary Technology,Standard study plans,VETS1003,Physiology for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1004,Evidence-based Veterinary Technology
+Bachelor of Veterinary Technology,Standard study plans,ANIM2004,"Animal Microbiology, Virology and Immunology 2"
+Bachelor of Veterinary Technology,Standard study plans,VETS2009,Introduction to Workplace Skills 2
+Bachelor of Veterinary Technology,Standard study plans,VETS2010,Pathology for Veterinary Technologists 2
+Bachelor of Veterinary Technology,Standard study plans,VETS2006,Clinical Studies A
+Bachelor of Veterinary Technology,Standard study plans,VETS2008,"Pharmacology, Pharmacy and Therapeutics 2"
+Bachelor of Veterinary Technology,Standard study plans,VETS2015,"Biosecurity, Epidemiology and Food Safety for Veterinary Technologists"
+Bachelor of Veterinary Technology,Standard study plans,VETS2011,Advanced Animal Husbandry for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS2007,Clinical Studies B
+Bachelor of Veterinary Technology,Standard study plans,VETS3006,Clinical Skills in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,VETS3008,Transition to the Veterinary Technology Profession 3 Part A
+Bachelor of Veterinary Technology,Standard study plans,VETS3007,Managing Animals in Emergencies
+Bachelor of Veterinary Technology,Standard study plans,VETS3010,Clinical Practice in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,VETS3009,Transition to the Veterinary Technology Profession 3 Part B
+Bachelor of Veterinary Technology,Standard study plans,-,Elective
+Bachelor of Veterinary Technology,Program electives,AGRI3001,Business Management for Applied Sciences 3
+Bachelor of Veterinary Technology,Program electives,ANIM2005,Genes and Inheritance 2
+Bachelor of Veterinary Technology,Program electives,ANIM2006,Livestock Production 2
+Bachelor of Veterinary Technology,Program electives,ANIM3003,Animal Nutrition and Metabolism 3
+Bachelor of Veterinary Technology,Program electives,ANIM3010,Laboratory Animal Science 3
+Bachelor of Veterinary Technology,Program electives,ANIM3011,Animals and the Law
+Bachelor of Veterinary Technology,Program electives,ANIM3012,Parasitology III
+Bachelor of Veterinary Technology,Program electives,BUSI1005,eChallenge
+Bachelor of Veterinary Technology,Program electives,ENVI2006,Wildlife Management 2
+Bachelor of Veterinary Technology,Program electives,HBIO3014,Ecology and Management of Vertebrate Pests III
+Bachelor of Veterinary Technology,Program electives,VETS2012,Animal Nutrition & Metabolism II (Vet Bio)
+Bachelor of Veterinary Technology,Standard study plans,ANIM1000,Animal Handling and Husbandry
+Bachelor of Veterinary Technology,Standard study plans,VETS1000,Foundations of Science for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1002,Anatomy for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1005,Principles of Veterinary Nursing
+Bachelor of Veterinary Technology,Standard study plans,ANIM1001,"Principles of Animal Behaviour, Welfare and Ethics"
+Bachelor of Veterinary Technology,Standard study plans,VETS1001,Introduction to Mechanisms of Health
+Bachelor of Veterinary Technology,Standard study plans,VETS1003,Physiology for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS1004,Evidence-based Veterinary Technology
+Bachelor of Veterinary Technology,Standard study plans,ANIM2004,"Animal Microbiology, Virology and Immunology 2"
+Bachelor of Veterinary Technology,Standard study plans,VETS2009,Introduction to Workplace Skills 2
+Bachelor of Veterinary Technology,Standard study plans,VETS2010,Pathology for Veterinary Technologists 2
+Bachelor of Veterinary Technology,Standard study plans,VETS2006,Clinical Studies A
+Bachelor of Veterinary Technology,Standard study plans,VETS2008,"Pharmacology, Pharmacy and Therapeutics 2"
+Bachelor of Veterinary Technology,Standard study plans,VETS2015,"Biosecurity, Epidemiology and Food Safety for Veterinary Technologists"
+Bachelor of Veterinary Technology,Standard study plans,VETS2011,Advanced Animal Husbandry for Veterinary Technologists
+Bachelor of Veterinary Technology,Standard study plans,VETS2007,Clinical Studies B
+Bachelor of Veterinary Technology,Standard study plans,VETS3006,Clinical Skills in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,VETS3008,Transition to the Veterinary Technology Profession 3 Part A
+Bachelor of Veterinary Technology,Standard study plans,VETS3007,Managing Animals in Emergencies
+Bachelor of Veterinary Technology,Standard study plans,VETS3010,Clinical Practice in Veterinary Technology 3
+Bachelor of Veterinary Technology,Standard study plans,VETS3009,Transition to the Veterinary Technology Profession 3 Part B
+Bachelor of Veterinary Technology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Program core courses,AGRI1003,Soils and Landscapes
+Bachelor of Viticulture and Oenology,Program core courses,AGRI2004,Soil and Water Resources 2
+Bachelor of Viticulture and Oenology,Program core courses,AGRI2006,Agricultural Biochemistry
+Bachelor of Viticulture and Oenology,Program core courses,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Viticulture and Oenology,Program core courses,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Viticulture and Oenology,Program core courses,BIOL2010,Agricultural Genetics
+Bachelor of Viticulture and Oenology,Program core courses,BIOL2024,Foundations in Plant Science
+Bachelor of Viticulture and Oenology,Program core courses,BIOL3018,Plant Health
+Bachelor of Viticulture and Oenology,Program core courses,BUSI5028,Foundations of Wine Science
+Bachelor of Viticulture and Oenology,Program core courses,STAT1000,Data Skills for Scientists
+Bachelor of Viticulture and Oenology,Program core courses,WINE2000,Viticultural Science 2
+Bachelor of Viticulture and Oenology,Program core courses,WINE2001,Microbiology for Viticulture and Oenology 2
+Bachelor of Viticulture and Oenology,Program core courses,WINE2002,Sensory Studies 2
+Bachelor of Viticulture and Oenology,Program core courses,WINE2003,Introductory Winemaking 2
+Bachelor of Viticulture and Oenology,Program core courses,WINE3000,Wine Packaging and Quality Management 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3001,Stabilisation and Clarification 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3002,Cellar and Winery Waste Management 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3003,Viticultural Science 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3004,"Distillation, Fortified and Sparkling Winemaking 3"
+Bachelor of Viticulture and Oenology,Program core courses,WINE3005,Viticultural Methods and Procedures 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3006,Fermentation Technology 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3007,Winemaking at Vintage 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3010,Advances in Wine Science 3
+Bachelor of Viticulture and Oenology,Program core courses,WINE3011,Engineering for Viticulture and Oenology 3
+Bachelor of Viticulture and Oenology,Program core selective courses,CHEM1000,Foundations in Chemistry
+Bachelor of Viticulture and Oenology,Program core selective courses,CHEM1002,Chemistry 1A
+Bachelor of Viticulture and Oenology,Program core selective courses,CHEM1003,Chemistry 1B
+Bachelor of Viticulture and Oenology,Program core selective courses,PHYS1000,Foundations in Physics
+Bachelor of Viticulture and Oenology,Program core selective courses,PHYS1009,Physics for the Life and Earth Sciences A
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Viticulture and Oenology,Standard study plans,BUSI5028,Foundations of Wine Science
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI1003,Soils and Landscapes
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Viticulture and Oenology,Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI2004,Soil and Water Resources 2
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI2006,Agricultural Biochemistry
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL2024,Foundations in Plant Science
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2001,Microbiology for Viticulture and Oenology 2
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL2010,Agricultural Genetics
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2000,Viticultural Science 2
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2002,Sensory Studies 2
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2003,Introductory Winemaking 2
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL3018,Plant Health
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3001,Stabilisation and Clarification 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3003,Viticultural Science 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3007,Winemaking at Vintage 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3004,"Distillation, Fortified and Sparkling Winemaking 3"
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3005,Viticultural Methods and Procedures 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3006,Fermentation Technology 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3011,Engineering for Viticulture and Oenology 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3002,Cellar and Winery Waste Management 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3008,Industry Experience (Viticulture and Oenology)
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3000,Wine Packaging and Quality Management 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3010,Advances in Wine Science 3
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3008,Industry Experience (Viticulture and Oenology)
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Viticulture and Oenology,Standard study plans,BUSI5028,Foundations of Wine Science
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI1003,Soils and Landscapes
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Viticulture and Oenology,Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI2004,Soil and Water Resources 2
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI2006,Agricultural Biochemistry
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL2024,Foundations in Plant Science
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2001,Microbiology for Viticulture and Oenology 2
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL2010,Agricultural Genetics
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2000,Viticultural Science 2
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2002,Sensory Studies 2
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2003,Introductory Winemaking 2
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL3018,Plant Health
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3001,Stabilisation and Clarification 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3003,Viticultural Science 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3007,Winemaking at Vintage 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3004,"Distillation, Fortified and Sparkling Winemaking 3"
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3005,Viticultural Methods and Procedures 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3006,Fermentation Technology 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3011,Engineering for Viticulture and Oenology 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3002,Cellar and Winery Waste Management 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3008,Industry Experience (Viticulture and Oenology)
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3000,Wine Packaging and Quality Management 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3010,Advances in Wine Science 3
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Program electives,AGRI3001,Business Management for Applied Sciences 3
+Bachelor of Viticulture and Oenology,Program electives,AGRI3009,Horticultural Production and Quality 3
+Bachelor of Viticulture and Oenology,Program electives,AGRI3011,Soil and Water Management and Conservation 3
+Bachelor of Viticulture and Oenology,Program electives,AGRI3013,Soil and Plant Nutrition
+Bachelor of Viticulture and Oenology,Program electives,AGRI3014,Soil Ecology and Nutrient Cycling 3
+Bachelor of Viticulture and Oenology,Program electives,BIOL3017,Plant Biotechnology
+Bachelor of Viticulture and Oenology,Program electives,BUSI1005,eChallenge
+Bachelor of Viticulture and Oenology,Program electives,EART4004,Communicating Science
+Bachelor of Viticulture and Oenology,Program electives,ENVI3008,GIS for Agriculture and Natural Resources
+Bachelor of Viticulture and Oenology,Program electives,FOOD3013,Brewing Technology and Beer Production 3
+Bachelor of Viticulture and Oenology,Program electives,FOODX300,Food Production in a Future Climate
+Bachelor of Viticulture and Oenology,Program electives,MARK1001,Consumer Behaviour
+Bachelor of Viticulture and Oenology,Program electives,MARK1008,Introduction to Marketing
+Bachelor of Viticulture and Oenology,Program electives,MARK2006,Digital Media in Business
+Bachelor of Viticulture and Oenology,Program electives,SCIE3013,Science Study Tour
+Bachelor of Viticulture and Oenology,Program electives,WINE3009,"Grape and Wine Industry Practice, Policy and Communication 3"
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL1004,Biology 1B: Evolution and Diversity of Organisms
+Bachelor of Viticulture and Oenology,Standard study plans,BUSI5028,Foundations of Wine Science
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI1003,Soils and Landscapes
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Viticulture and Oenology,Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Viticulture and Oenology,Standard study plans,-,
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI2004,Soil and Water Resources 2
+Bachelor of Viticulture and Oenology,Standard study plans,AGRI2006,Agricultural Biochemistry
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL2024,Foundations in Plant Science
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2001,Microbiology for Viticulture and Oenology 2
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL2010,Agricultural Genetics
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2000,Viticultural Science 2
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2002,Sensory Studies 2
+Bachelor of Viticulture and Oenology,Standard study plans,WINE2003,Introductory Winemaking 2
+Bachelor of Viticulture and Oenology,Standard study plans,BIOL3018,Plant Health
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3001,Stabilisation and Clarification 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3003,Viticultural Science 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3007,Winemaking at Vintage 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3004,"Distillation, Fortified and Sparkling Winemaking 3"
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3005,Viticultural Methods and Procedures 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3006,Fermentation Technology 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3011,Engineering for Viticulture and Oenology 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3002,Cellar and Winery Waste Management 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3008,Industry Experience (Viticulture and Oenology)
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3000,Wine Packaging and Quality Management 3
+Bachelor of Viticulture and Oenology,Standard study plans,WINE3010,Advances in Wine Science 3
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective
+Bachelor of Viticulture and Oenology,Standard study plans,-,Elective

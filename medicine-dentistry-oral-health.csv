@@ -1,0 +1,313 @@
+degree,section,course_code,course_name
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Common core,COREX001,An Ethically Rich Life
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Common core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Common core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Common core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Common core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Common core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program core,HLTH1002,Introduction to Health Research
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program core,HBIO1002,Human Anatomy and Physiology A
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program core,HBIO1003,Human Anatomy and Physiology B
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program core,MEDI3003,Development of Health Research Skills
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Major courses,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Major courses,HLTH1000,"Principles of Human Health, Disease and Treatment"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Major courses,BIOL2900,Molecular and Biomedical Sciences Practical 2
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 2 major selectives,HBIO2006,Musculoskeletal Anatomy
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 2 major selectives,HBIO2007,"Physiology 2A - Heart, Lung and Neuromuscular Systems"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 2 major selectives,HBIO2008,Physiology 2B - Systems and Homeostasis
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 2 major selectives,HBIO2009,Functional Histology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 2 major selectives,MDST2002,Foundations of Human Neuroanatomy
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 2 major selectives,PHAR2002,Foundations of Pharmacology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 2 major selectives,PHAR2004,Pharmacology and Pathophysiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HBIO3005,Neurological Diseases
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HBIO3006,Neuromotor Control of Human Movement
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HBIO3007,Human Motor Behaviour and Learning
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HBIO3009,Cellular and Systems Neurobiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HBIO3011,Integrated and Applied Systems Physiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HBIO3012,Research Techniques to Investigate Human Disease
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HLTH2003,Applied Human Anatomy
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,MDST3000,Essentials of Pathology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,PHAR3000,Fundamentals of Drug Discovery and Development
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,PHAR3008,Cancer Biology and Therapeutics
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,SCIE3005,Topics in Forensic Science
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Year 3 major selectives,HLTH3900,WIL in Biomedical and Health Sciences
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL1003,"Biology 1A: Molecules, Genes and Cells"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2005,Genetics 2A: Introduction to Genetic Analysis
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2006,Genetics 2B: Applications of Genetic Analysis
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2007,"Genetics 3B: Quantitative, Developmental and Medical Genetics"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2008,Immunology and Virology 2
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2015,Biochemistry 2: Metabolism
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2017,Biochemistry 2: Molecular and Cellular Biology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2021,Microbiology 2
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL2900,Molecular and Biomedical Science Practical 2
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3003,Biochemistry 3 Molecular and Structural Biology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3005,Biochemistry 3 Molecular Basis of Cancer
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3006,Genetics 3A: Evolutionary Genetics and Epigenetics
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3008,Infection and Immunity 3A
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3010,Infection and Immunity 3B
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3011,Biochemistry 3: Practical
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3012,Microbiology and Immunology Practical 3
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,BIOL3900,Genetics Practical 3A
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,CHEM1000,Foundations in Chemistry
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,CHEM1002,Chemistry 1A
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO1005,Essentials of Neuroscience
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO2005,Fundamentals of Human Neurophysiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO2006,Musculoskeletal Anatomy
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO2007,"Physiology 2A - Heart, Lung and Neuromuscular Systems"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO2008,Physiology 2B - Systems and Homeostasis
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO2009,Functional Histology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO2011,Reproduction and Developmental Biology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3001,Reproductive Health Matters
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3002,Biology of Childhood Growth and Development
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3003,"Infant, Child and Adolescent Health"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3004,Assisted Reproductive Technology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3005,Neurological Diseases
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3006,Neuromotor Control of Human Movement
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3007,Human Motor Behaviour and Learning
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3008,Biological Psychiatry
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3009,Cellular and Systems Neurobiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3010,Neuroscience of Human Cognition and Behaviour
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3011,Integrated and Applied Systems Physiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3012,Research Techniques to Investigate Human Disease
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HBIO3016,Reproductive Biology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HLTH1000,"Principles of Human Health, Disease and Treatment"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HLTH1001,Introduction to Health Ethics
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HLTH2002,First 1000 Days
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,HLTH2003,Applied Human Anatomy
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,INDG1003,"Aboriginal Health, Culture, Community, and Country"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,MDST2002,Foundations of Human Neuroanatomy
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,MDST2004,"From Child to Adult: Priorities for Health, Wellbeing and Relationships"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,MDST3000,Essentials of Pathology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR1001,Introduction to Clinical Trials
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR2001,Non-Clinical Studies for Clinical Trials
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR2002,Foundations of Pharmacology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR2004,Pharmacology and Pathophysiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR3000,Fundamentals of Drug Discovery and Development
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR3002,Clinical Trials Management
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR3004,"Pharmacokinetics, Pharmacometrics, and Systems Pharmacology"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR3006,Molecular Neuropharmacology and Disease
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PHAR3008,Cancer Biology and Therapeutics
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PSYC3004,Biological and Psychosocial Factors of Addiction
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PSYC3005,Assessment and Treatment of Addiction
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH1000,Public Health Information and Intelligence
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH1001,Upstream Determinants of Health
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH1002,"Health, Society and Systems"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH1003,Human-Animal Relationships in Health and Society
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2001,Qualitative Approaches in Health
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2002,Essentials of Epidemiology
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2004,Climate Change and Health
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2005,Public Health Ethics
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2006,Social Foundations of Health
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2007,Essentials of Biostatistics
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2008,Global Health
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2010,Rural Public Health
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2011,Infectious Disease Epidemiology and Control
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2024,Environmental and Occupational Health
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH2902,Designing and Managing Public Health Programs
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH3001,Public Health Evaluation
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH3002,Health Promotion in Action
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH3003,Epidemiology in Action
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH3004,"Science, Evidence and Politics: Building Healthy Public Policy"
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH3005,Aboriginal Public Health Practice
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH3018,Introduction to Health Economics
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,PUBH3019,Clinical Trials: Design and Analysis
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,SCIE3005,Topics in Forensic Science
+Bachelor of Biomedical and Health Sciences majoring in Medical Science,Program electives,STAT1000,Data Skills for Scientists
+Bachelor of Dental Surgery,Core courses,DENT1000,Dental Science and Practice I Part 1
+Bachelor of Dental Surgery,Core courses,DENT1001,Dental Science and Practice I Part 2
+Bachelor of Dental Surgery,Core courses,DENT2000,Dental Science and Practice II Part 1
+Bachelor of Dental Surgery,Core courses,DENT2001,Dental Science and Practice II Part 2
+Bachelor of Dental Surgery,Core courses,DENT3000,Dental Science and Practice III Part 1
+Bachelor of Dental Surgery,Core courses,DENT3001,Dental Science and Practice III Part 2
+Bachelor of Dental Surgery,Core courses,DENT4000,Dental Science and Practice IV Part 1
+Bachelor of Dental Surgery,Core courses,DENT4001,Dental Science and Practice IV Part 2
+Bachelor of Dental Surgery,Core courses,DENT5000,Dental Science and Practice V Part 1
+Bachelor of Dental Surgery,Core courses,DENT5001,Dental Science and Practice V Part 2
+Bachelor of Dental Surgery,Core courses,DENT1800,First Annual B.D.S. Examination
+Bachelor of Dental Surgery,Core courses,DENT2800,Second Annual B.D.S. Examination
+Bachelor of Dental Surgery,Core courses,DENT3800,Third Annual B.D.S. Examination
+Bachelor of Dental Surgery,Core courses,DENT4800,Fourth Annual B.D.S. Examination
+Bachelor of Dental Surgery,Core courses,DENT5800,Fifth Annual (Final) B.D.S. Examination
+Bachelor of Dental Surgery,Standard study plans,DENT1000,Dental Science and Practice I Part 1
+Bachelor of Dental Surgery,Standard study plans,DENT1001,Dental Science and Practice I Part 2
+Bachelor of Dental Surgery,Standard study plans,DENT1800,First Annual B.D.S. Examination
+Bachelor of Dental Surgery,Standard study plans,DENT2000,Dental Science and Practice II Part 1
+Bachelor of Dental Surgery,Standard study plans,DENT2001,Dental Science and Practice II Part 2
+Bachelor of Dental Surgery,Standard study plans,DENT2800,Second Annual B.D.S. Examination
+Bachelor of Dental Surgery,Standard study plans,DENT3000,Dental Science and Practice III Part 1
+Bachelor of Dental Surgery,Standard study plans,DENT3001,Dental Science and Practice III Part 2
+Bachelor of Dental Surgery,Standard study plans,DENT3800,Third Annual B.D.S. Examination
+Bachelor of Dental Surgery,Standard study plans,DENT4000,Dental Science and Practice IV Part 1
+Bachelor of Dental Surgery,Standard study plans,DENT4001,Dental Science and Practice IV Part 2
+Bachelor of Dental Surgery,Standard study plans,DENT4800,Fourth Annual B.D.S. Examination
+Bachelor of Dental Surgery,Standard study plans,DENT5000,Dental Science and Practice V Part 1
+Bachelor of Dental Surgery,Standard study plans,DENT5001,Dental Science and Practice V Part 2
+Bachelor of Dental Surgery,Standard study plans,DENT5800,Fifth Annual (Final) B.D.S. Examination
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL1018,Human Physiology 100
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL1019,Human Physiology 101
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL2027,Biochemistry
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL2030,Genetics
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL2033,Histology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL2034,Immunology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL3023,Chemical and Molecular Pathology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL3029,Genomics and Bioinformatics
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,BIOL3044,Microbiology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,CHEM1005,Chemistry 100
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,CHEM1006,Chemistry 101
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,HLTH1005,Health and Society
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MATH1024,Mathematics for Laboratory Sciences
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST1002,Professional Issues in Laboratory Medicine
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST2009,Pathophysiology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST2010,Essential Haematology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST3004,Histotechnology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST3005,Infectious Diseases
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST3008,Transfusion and Haemostasis
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST4000,Clinical Biochemistry
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST4001,Advanced Haematology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST4002,Histopathology and Cytopathology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,MDST4003,Specialised Microbiology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning,STAT1000,Data Skills for Scientists
+Bachelor of Laboratory Medicine (Honours),Standard study plans,CHEM1005,Chemistry 100
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL1018,Human Physiology 100
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MATH1024,Mathematics for Laboratory Sciences
+Bachelor of Laboratory Medicine (Honours),Standard study plans,HLTH1005,Health and Society
+Bachelor of Laboratory Medicine (Honours),Standard study plans,CHEM1006,Chemistry 101
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL1019,Human Physiology 101
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST1002,Professional Issues in Laboratory Medicine
+Bachelor of Laboratory Medicine (Honours),Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2027,Biochemistry
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2033,Histology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2030,Genetics
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL3044,Microbiology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL3029,Genomics and Bioinformatics
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2034,Immunology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST2009,Pathophysiology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST2010,Essential Haematology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3004,Histotechnology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3005,Infectious Diseases
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL3023,Chemical and Molecular Pathology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3008,Transfusion and Haemostasis
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3006,Clinical Practice A
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3007,Clinical Practice B
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4000,Clinical Biochemistry
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4001,Advanced Haematology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4002,Histopathology and Cytopathology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4003,Specialised Microbiology
+Bachelor of Laboratory Medicine (Honours),Work integrated learning courses,MDST3006,Clinical Practice A
+Bachelor of Laboratory Medicine (Honours),Work integrated learning courses,MDST3007,Clinical Practice B
+Bachelor of Laboratory Medicine (Honours),Work integrated learning - advanced clinical practice,MDST4004,Advanced Clinical Practice A
+Bachelor of Laboratory Medicine (Honours),Work integrated learning - advanced clinical practice,MDST4005,Advanced Clinical Practice B
+Bachelor of Laboratory Medicine (Honours),Work integrated learning - experimental research practice,MDST4006,Experimental Research Practice A
+Bachelor of Laboratory Medicine (Honours),Work integrated learning - experimental research practice,MDST4007,Experimental Research Practice B
+Bachelor of Laboratory Medicine (Honours),Standard study plans,CHEM1005,Chemistry 100
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL1018,Human Physiology 100
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MATH1024,Mathematics for Laboratory Sciences
+Bachelor of Laboratory Medicine (Honours),Standard study plans,HLTH1005,Health and Society
+Bachelor of Laboratory Medicine (Honours),Standard study plans,CHEM1006,Chemistry 101
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL1019,Human Physiology 101
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST1002,Professional Issues in Laboratory Medicine
+Bachelor of Laboratory Medicine (Honours),Standard study plans,STAT1000,Data Skills for Scientists
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2027,Biochemistry
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2033,Histology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2030,Genetics
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL3044,Microbiology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL3029,Genomics and Bioinformatics
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL2034,Immunology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST2009,Pathophysiology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST2010,Essential Haematology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3004,Histotechnology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3005,Infectious Diseases
+Bachelor of Laboratory Medicine (Honours),Standard study plans,BIOL3023,Chemical and Molecular Pathology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3008,Transfusion and Haemostasis
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3006,Clinical Practice A
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST3007,Clinical Practice B
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4000,Clinical Biochemistry
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4001,Advanced Haematology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4002,Histopathology and Cytopathology
+Bachelor of Laboratory Medicine (Honours),Standard study plans,MDST4003,Specialised Microbiology
+Bachelor of Medical Studies,Core courses,MEDI1001,Foundations of Medicine
+Bachelor of Medical Studies,Core courses,MEDI1002,Medical Studies 1
+Bachelor of Medical Studies,Core courses,MEDI2001,Medical Studies 2A
+Bachelor of Medical Studies,Core courses,MEDI2002,Medical Studies 2B
+Bachelor of Medical Studies,Core courses,MEDI3001,Medical Studies 3
+Bachelor of Medical Studies,Core courses,MEDI3002,Transition to Clinical Studies
+Bachelor of Medical Studies,Core courses,MDST3011,Research Skills Development
+Bachelor of Oral Health,Core selectives,DENT1003,Dental and Health Science IOH Part 1
+Bachelor of Oral Health,Core selectives,DENT1004,Dental and Health Science IOH Part 2
+Bachelor of Oral Health,Core selectives,DENT1005,Clinical Practice IOH Part 1
+Bachelor of Oral Health,Core selectives,DENT1006,Clinical Practice IOH Part 2
+Bachelor of Oral Health,Core selectives,DENT1007,Human Biology IOH Part 1
+Bachelor of Oral Health,Core selectives,DENT1008,Human Biology IOH Part 2
+Bachelor of Oral Health,Core selectives,DENT1009,Population Health & Professional Practice IOH Part 1
+Bachelor of Oral Health,Core selectives,DENT1010,Population Health & Professional Practice IOH Part 2
+Bachelor of Oral Health,Core selectives,DENT2007,Human Biology IIOH Part 1
+Bachelor of Oral Health,Core selectives,DENT2009,Population Health and Professional Practice IIOH
+Bachelor of Oral Health,Core selectives,DENT2010,Human Biology IIOH Part 2
+Bachelor of Oral Health,Core selectives,DENT3006,Oral Health Elective IIIOH Part 1
+Bachelor of Oral Health,Core selectives,DENT3007,Oral Health Elective IIIOH Part 2
+Bachelor of Oral Health,Core selectives,DENT1011,First Annual Oral Health Examination
+Bachelor of Oral Health,Core selectives,DENT1012,Second Annual Oral Health Examination
+Bachelor of Oral Health,Core selectives,DENT1013,Third Annual Oral Health Examination
+Bachelor of Oral Health,Standard study plans,DENT1003,Dental and Health Science IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1005,Clinical Practice IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1007,Human Biology IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1009,Population Health & Professional Practice IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1004,Dental and Health Science IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1006,Clinical Practice IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1008,Human Biology IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1010,Population Health & Professional Practice IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1011,First Annual Oral Health Examination
+Bachelor of Oral Health,Standard study plans,DENT2007,Human Biology IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2003,Dental & Health Science IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2005,Clinical Practice IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2009,Population Health and Professional Practice IIOH
+Bachelor of Oral Health,Standard study plans,DENT2010,Human Biology IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT2004,Dental & Health Science IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT2006,Clinical Practice IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1012,Second Annual Oral Health Examination
+Bachelor of Oral Health,Standard study plans,DENT3006,Oral Health Elective IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3004,Clinical Practice IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3008,Dental & Health Science IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3007,Oral Health Elective IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT3005,Clinical Practice IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT3009,Dental & Health Science IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1013,Third Annual Oral Health Examination
+Bachelor of Oral Health,Standard study plans,DENT2003,Dental & Health Science IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2004,Dental & Health Science IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT2005,Clinical Practice IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2006,Clinical Practice IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT2100,Clinical Practice IIOH (Modified) Part 1
+Bachelor of Oral Health,Standard study plans,DENT2101,Dental & Health Science IIOH (Modified)
+Bachelor of Oral Health,Standard study plans,DENT2102,Clinical Practice IIOH (Modified) Part 2
+Bachelor of Oral Health,Standard study plans,DENT3004,Clinical Practice IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3005,Clinical Practice IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT3008,Dental & Health Science IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3009,Dental & Health Science IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT3100,Clinical Practice IIIOH (Modified) Part 1
+Bachelor of Oral Health,Standard study plans,DENT3101,Dental & Health Science IIIOH (M) Part 1
+Bachelor of Oral Health,Standard study plans,DENT3102,Clinical Practice IIIOH (Modified) Part 2
+Bachelor of Oral Health,Standard study plans,DENT3103,Dental & Health Science IIIOH (Modified) Part 2
+Bachelor of Oral Health,Standard study plans,DENT1003,Dental and Health Science IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1005,Clinical Practice IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1007,Human Biology IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1009,Population Health & Professional Practice IOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT1004,Dental and Health Science IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1006,Clinical Practice IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1008,Human Biology IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1010,Population Health & Professional Practice IOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1011,First Annual Oral Health Examination
+Bachelor of Oral Health,Standard study plans,DENT2007,Human Biology IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2003,Dental & Health Science IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2005,Clinical Practice IIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT2009,Population Health and Professional Practice IIOH
+Bachelor of Oral Health,Standard study plans,DENT2010,Human Biology IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT2004,Dental & Health Science IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT2006,Clinical Practice IIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1012,Second Annual Oral Health Examination
+Bachelor of Oral Health,Standard study plans,DENT3006,Oral Health Elective IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3004,Clinical Practice IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3008,Dental & Health Science IIIOH Part 1
+Bachelor of Oral Health,Standard study plans,DENT3007,Oral Health Elective IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT3005,Clinical Practice IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT3009,Dental & Health Science IIIOH Part 2
+Bachelor of Oral Health,Standard study plans,DENT1013,Third Annual Oral Health Examination

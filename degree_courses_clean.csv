@@ -1,0 +1,357 @@
+degree_name,course_code,course_name,stream_clean
+Bachelor of Accounting,ACCT1005,UO Accounting for Business,Program Core
+Bachelor of Accounting,ACCT1006,UO Financial Accounting 1,Program Core
+Bachelor of Accounting,BUSI1030,UO Career Development in Business,Program Core
+Bachelor of Accounting,ECON1010,UO Principles of Economics,Program Core
+Bachelor of Accounting,LAWS1018,UO Business Law,Program Core
+Bachelor of Accounting,MARK1013,UO Marketing Principles: Trading and Exchange,Program Core
+Bachelor of Accounting,MATH1028,UO Quantitative Methods for Business,Program Core
+Bachelor of Accounting,ACCT2003,UO Financial Accounting 2,Program Core
+Bachelor of Accounting,ACCT2004,UO Management Accounting,Program Core
+Bachelor of Accounting,BAFI2025,UO Business Finance,Program Core
+Bachelor of Accounting,BUSI2019,UO Management and Organisation,Program Core
+Bachelor of Accounting,INFO2022,UO Business Intelligence,Program Core
+Bachelor of Accounting,LAWS2012,UO Companies and Partnership Law,Program Core
+Bachelor of Accounting,ACCT3003,UO Auditing Theory and Practice,Program Core
+Bachelor of Accounting,ACCT3004,UO Contemporary Issues in Accounting,Program Core
+Bachelor of Accounting,ACCT3005,UO Financial Accounting 3,Program Core
+Bachelor of Accounting,ACCT3006,UO Sustainability Accounting and Reporting,Program Core
+Bachelor of Accounting,BUSI3034,UO Strategic Financial Analysis,Program Core
+Bachelor of Accounting,LAWS3007,UO Taxation Law 1,Program Core
+Bachelor of Business,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business,MARK1000,Marketing Principles,Program Core
+Bachelor of Business,BUSI1001,Business Law,Program Core
+Bachelor of Business,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business,BUSI3013,Strategic Management,Program Core
+Bachelor of Business,ECON1000,Principles of Economics,Program Core
+Bachelor of Business,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business,PROJ3006,Project Logistics and Supply Chains,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ACCT1005,UO Accounting for Business,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",BUSI1030,UO Career Development in Business,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ECON1010,UO Principles of Economics,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ECON1011,UO Macroeconomics,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",LAWS1018,UO Business Law,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",MARK1013,UO Marketing Principles: Trading and Exchange,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",MATH1028,UO Quantitative Methods for Business,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",BAFI2025,UO Business Finance,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",BUSI2019,UO Management and Organisation,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",BUSI2021,UO Entrepreneurship for Social and Market Impact,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ECON2007,UO Economic Analysis of Business Decisions,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ECON2008,UO Empirical Business Analysis,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ECON2009,UO Growth Development and the Macroeconomy,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",BAFI3010,UO Portfolio and Fund Management,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",BAFI3013,UO International Currency and Banking Markets,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",BUSI3034,UO Strategic Financial Analysis,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ECON3007,UO Economics of Public Policy,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",ECON3008,UO International Economics,Program Core
+"Bachelor of Business (Economics, Finance and Trade)",IBUS3008,UO International Business Environments,Program Core
+Bachelor of Business (Financial Planning),ACCT1005,UO Accounting for Business,Core Selectives
+Bachelor of Business (Financial Planning),BAFI1003,UO Financial Markets and Institutions,Core Selectives
+Bachelor of Business (Financial Planning),BAFI1004,UO Personal Finance,Core Selectives
+Bachelor of Business (Financial Planning),BAFI2016,UO Introduction to Financial Planning,Core Selectives
+Bachelor of Business (Financial Planning),BAFI3008,UO Applied Financial Planning,Core Selectives
+Bachelor of Business (Financial Planning),BAFI3009,UO Estate Planning,Core Selectives
+Bachelor of Business (Financial Planning),BAFI3010,UO Portfolio and Fund Management,Core Selectives
+Bachelor of Business (Financial Planning),BAFI3011,UO Risk Management and Insurance,Core Selectives
+Bachelor of Business (Financial Planning),BAFI3012,UO Superannuation,Core Selectives
+Bachelor of Business (Financial Planning),BUSI1030,UO Career Development in Business,Core Selectives
+Bachelor of Business (Financial Planning),BUSI2019,UO Management and Organisation,Core Selectives
+Bachelor of Business (Financial Planning),BUSI2021,UO Entrepreneurship for Social and Market Impact,Core Selectives
+Bachelor of Business (Financial Planning),ECON1010,UO Principles of Economics,Core Selectives
+Bachelor of Business (Financial Planning),ECON1011,UO Macroeconomics,Core Selectives
+Bachelor of Business (Financial Planning),IBUS3008,UO International Business Environments,Core Selectives
+Bachelor of Business (Financial Planning),INFO2022,UO Business Intelligence,Core Selectives
+Bachelor of Business (Financial Planning),LAWS1018,UO Business Law,Core Selectives
+Bachelor of Business (Financial Planning),LAWS2012,UO Companies and Partnership Law,Core Selectives
+Bachelor of Business (Financial Planning),LAWS3007,UO Taxation Law 1,Core Selectives
+Bachelor of Business (Financial Planning),MARK1013,UO Marketing Principles: Trading and Exchange,Core Selectives
+Bachelor of Business (Financial Planning),MATH1028,UO Quantitative Methods for Business,Core Selectives
+Bachelor of Business (Management),BUSI1030,UO Career Development in Business,Core Selectives
+Bachelor of Business (Management),BUSI2017,UO Organisational Behaviour,Core Selectives
+Bachelor of Business (Management),BUSI2019,UO Management and Organisation,Core Selectives
+Bachelor of Business (Management),BUSI2020,UO Project Management: Principles and Strategies,Core Selectives
+Bachelor of Business (Management),BUSI2021,UO Entrepreneurship for Social and Market Impact,Core Selectives
+Bachelor of Business (Management),BUSI3030,UO International Management Ethics and Values,Core Selectives
+Bachelor of Business (Management),BUSI3031,UO Managing Decision Making,Core Selectives
+Bachelor of Business (Management),BUSI3032,UO Organisational Leadership,Core Selectives
+Bachelor of Business (Management),BUSI3033,UO Strategic Management,Core Selectives
+Bachelor of Business (Management),BUSI3035,UO Organisational Entrepreneurship,Core Selectives
+Bachelor of Business (Management),COMM2002,UO Communication and Organisational Practices,Core Selectives
+Bachelor of Business (Management),ECON1010,UO Principles of Economics,Core Selectives
+Bachelor of Business (Management),HRES2012,UO Foundations of Human Resource Management,Core Selectives
+Bachelor of Business (Management),IBUS3008,UO International Business Environments,Core Selectives
+Bachelor of Business (Management),INFO2022,UO Business Intelligence,Core Selectives
+Bachelor of Business (Management),LAWS1018,UO Business Law,Core Selectives
+Bachelor of Business (Management),MARK1013,UO Marketing Principles: Trading and Exchange,Core Selectives
+Bachelor of Business majoring in Digital Business,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in Digital Business,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in Digital Business,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in Digital Business,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in Digital Business,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in Digital Business,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in Digital Business,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in Digital Business,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in Digital Business,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in Digital Business,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in Digital Business,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in Digital Business,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in Digital Business,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in Digital Business,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in Digital Business,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in Digital Business,PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Business majoring in Human Resource Management,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in Human Resource Management,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in Human Resource Management,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in Human Resource Management,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in Human Resource Management,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in Human Resource Management,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in Human Resource Management,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in Human Resource Management,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in Human Resource Management,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in Human Resource Management,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in Human Resource Management,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in Human Resource Management,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in Human Resource Management,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in Human Resource Management,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in Human Resource Management,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in Human Resource Management,PROJ3006,Project Logistics and Supply Chains,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",ACCT1000,Accounting for Decision Makers,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",BUSI1002,"Management, Organisations and Leadership",Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",MARK1000,Marketing Principles,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",BUSI1001,Business Law,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",BUSI3013,Strategic Management,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",ECON1000,Principles of Economics,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",MDIA2021,Research Methods in Media and Communication,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",MDIA2022,"Media Law, Policy and Ethics",Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",MDIA2102,Promotional Culture,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",MDIA3017,Strategic Planning for Media and Communication,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",GRAP1004,Digital Design Principles and Methods,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",PROJ1000,Foundations of Project Management,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",PROJ1001,Scheduling and Cost Management,Program Core
+"Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Business majoring in International Business,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in International Business,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in International Business,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in International Business,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in International Business,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in International Business,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in International Business,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in International Business,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in International Business,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in International Business,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in International Business,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in International Business,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in International Business,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in International Business,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in International Business,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in International Business,PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Business majoring in Management,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in Management,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in Management,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in Management,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in Management,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in Management,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in Management,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in Management,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in Management,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in Management,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in Management,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in Management,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in Management,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in Management,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in Management,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in Management,PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Business majoring in Marketing,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in Marketing,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in Marketing,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in Marketing,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in Marketing,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in Marketing,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in Marketing,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in Marketing,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in Marketing,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in Marketing,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in Marketing,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in Marketing,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in Marketing,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in Marketing,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in Marketing,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in Marketing,PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Business majoring in Marketing and Design,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in Marketing and Design,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in Marketing and Design,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in Marketing and Design,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in Marketing and Design,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in Marketing and Design,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in Marketing and Design,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in Marketing and Design,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in Marketing and Design,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in Marketing and Design,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in Marketing and Design,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in Marketing and Design,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in Marketing and Design,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in Marketing and Design,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in Marketing and Design,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in Marketing and Design,PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in Procurement and Supply Chain Management,PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Business majoring in Project Management,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Business majoring in Project Management,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Business majoring in Project Management,BUSI2001,"Emerging Technologies, Data and Business Analytics",Program Core
+Bachelor of Business majoring in Project Management,MARK1000,Marketing Principles,Program Core
+Bachelor of Business majoring in Project Management,BUSI1001,Business Law,Program Core
+Bachelor of Business majoring in Project Management,BUSI2002,"Negotiation, Conflict Management and Resolution",Program Core
+Bachelor of Business majoring in Project Management,BUSI3013,Strategic Management,Program Core
+Bachelor of Business majoring in Project Management,ECON1000,Principles of Economics,Program Core
+Bachelor of Business majoring in Project Management,MDIA2021,Research Methods in Media and Communication,Program Core
+Bachelor of Business majoring in Project Management,MDIA2022,"Media Law, Policy and Ethics",Program Core
+Bachelor of Business majoring in Project Management,MDIA2102,Promotional Culture,Program Core
+Bachelor of Business majoring in Project Management,MDIA3017,Strategic Planning for Media and Communication,Program Core
+Bachelor of Business majoring in Project Management,GRAP1004,Digital Design Principles and Methods,Program Core
+Bachelor of Business majoring in Project Management,PROJ1000,Foundations of Project Management,Program Core
+Bachelor of Business majoring in Project Management,PROJ1001,Scheduling and Cost Management,Program Core
+Bachelor of Business majoring in Project Management,PROJ3006,Project Logistics and Supply Chains,Program Core
+Bachelor of Commerce majoring in Accounting,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Commerce majoring in Accounting,BAFI1001,Business Finance,Program Core
+Bachelor of Commerce majoring in Accounting,BUSI1001,Business Law,Program Core
+Bachelor of Commerce majoring in Accounting,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Commerce majoring in Accounting,ECON1012,Data Analytics,Program Core
+Bachelor of Commerce majoring in Accounting,BUSI1009,Predictive and Visual Analytics for Managers and Consultants,Program Core
+Bachelor of Commerce majoring in Accounting,ECON1000,Principles of Economics,Program Core
+Bachelor of Commerce majoring in Accounting,ARTI3000,Business Applications for Artificial Intelligence,Program Core
+Bachelor of Commerce majoring in Banking and Finance,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Commerce majoring in Banking and Finance,BAFI1001,Business Finance,Program Core
+Bachelor of Commerce majoring in Banking and Finance,BUSI1001,Business Law,Program Core
+Bachelor of Commerce majoring in Banking and Finance,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Commerce majoring in Banking and Finance,ECON1012,Data Analytics,Program Core
+Bachelor of Commerce majoring in Banking and Finance,BUSI1009,Predictive and Visual Analytics for Managers and Consultants,Program Core
+Bachelor of Commerce majoring in Banking and Finance,ECON1000,Principles of Economics,Program Core
+Bachelor of Commerce majoring in Banking and Finance,ARTI3000,Business Applications for Artificial Intelligence,Program Core
+Bachelor of Commerce majoring in Business Analytics,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Commerce majoring in Business Analytics,BAFI1001,Business Finance,Program Core
+Bachelor of Commerce majoring in Business Analytics,BUSI1001,Business Law,Program Core
+Bachelor of Commerce majoring in Business Analytics,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Commerce majoring in Business Analytics,ECON1012,Data Analytics,Program Core
+Bachelor of Commerce majoring in Business Analytics,BUSI1009,Predictive and Visual Analytics for Managers and Consultants,Program Core
+Bachelor of Commerce majoring in Business Analytics,ECON1000,Principles of Economics,Program Core
+Bachelor of Commerce majoring in Business Analytics,ARTI3000,Business Applications for Artificial Intelligence,Program Core
+Bachelor of Commerce majoring in Financial Planning,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Commerce majoring in Financial Planning,BAFI1001,Business Finance,Program Core
+Bachelor of Commerce majoring in Financial Planning,BUSI1001,Business Law,Program Core
+Bachelor of Commerce majoring in Financial Planning,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Commerce majoring in Financial Planning,ECON1012,Data Analytics,Program Core
+Bachelor of Commerce majoring in Financial Planning,BUSI1009,Predictive and Visual Analytics for Managers and Consultants,Program Core
+Bachelor of Commerce majoring in Financial Planning,ECON1000,Principles of Economics,Program Core
+Bachelor of Commerce majoring in Financial Planning,ARTI3000,Business Applications for Artificial Intelligence,Program Core
+Bachelor of Commerce majoring in Property,ACCT1000,Accounting for Decision Makers,Program Core
+Bachelor of Commerce majoring in Property,BAFI1001,Business Finance,Program Core
+Bachelor of Commerce majoring in Property,BUSI1001,Business Law,Program Core
+Bachelor of Commerce majoring in Property,BUSI1002,"Management, Organisations and Leadership",Program Core
+Bachelor of Commerce majoring in Property,ECON1012,Data Analytics,Program Core
+Bachelor of Commerce majoring in Property,BUSI1009,Predictive and Visual Analytics for Managers and Consultants,Program Core
+Bachelor of Commerce majoring in Property,ECON1000,Principles of Economics,Program Core
+Bachelor of Commerce majoring in Property,ARTI3000,Business Applications for Artificial Intelligence,Program Core
+Bachelor of Digital Business,ACCT1005,UO Accounting for Business,Core Selectives
+Bachelor of Digital Business,ACCT2004,UO Management Accounting,Core Selectives
+Bachelor of Digital Business,BUSI1019,UO Exploring Digital Technology in Business,Core Selectives
+Bachelor of Digital Business,BUSI1020,UO Introduction to Digital Disruption in Business,Core Selectives
+Bachelor of Digital Business,BUSI2014,UO Designing Digital Solutions,Core Selectives
+Bachelor of Digital Business,BUSI2017,UO Organisational Behaviour,Core Selectives
+Bachelor of Digital Business,BUSI2019,UO Management and Organisation,Core Selectives
+Bachelor of Digital Business,BUSI2020,UO Project Management: Principles and Strategies,Core Selectives
+Bachelor of Digital Business,BUSI2021,UO Entrepreneurship for Social and Market Impact,Core Selectives
+Bachelor of Digital Business,BUSI2023,UO Digital Solution Methodologies,Core Selectives
+Bachelor of Digital Business,BUSI3025,UO Digital Business Solutions,Core Selectives
+Bachelor of Digital Business,BUSI3026,UO Digital Business Value,Core Selectives
+Bachelor of Digital Business,BUSI3031,UO Managing Decision Making,Core Selectives
+Bachelor of Digital Business,BUSI3033,UO Strategic Management,Core Selectives
+Bachelor of Digital Business,ECON1010,UO Principles of Economics,Core Selectives
+Bachelor of Digital Business,IBUS3008,UO International Business Environments,Core Selectives
+Bachelor of Digital Business,INFO1020,UO Information Technology Fundamentals,Core Selectives
+Bachelor of Digital Business,INFO2028,UO Cloud Platforms,Core Selectives
+Bachelor of Digital Business,MARK1013,UO Marketing Principles: Trading and Exchange,Core Selectives
+Bachelor of Digital Business,INFO3020,UO Risk Management and Governance,Core Selectives
+Bachelor of Economics,ECON1000,Principles of Economics,Program Core
+Bachelor of Economics,ECON1012,Data Analytics,Program Core
+Bachelor of Economics,ECON2000,Intermediate Macroeconomics,Program Core
+Bachelor of Economics,ECON2001,Global Economic History,Program Core
+Bachelor of Economics (Honours),ECON1000,Principles of Economics,Program Core
+Bachelor of Economics (Honours),ECON1003,Mathematical Economics,Program Core
+Bachelor of Economics (Honours),ECON1012,Data Analytics,Program Core
+Bachelor of Economics (Honours),ECON2000,Intermediate Macroeconomics,Program Core
+Bachelor of Economics (Honours),ECON2001,Global Economic History,Program Core
+Bachelor of Economics (Honours),ECON2005,Intermediate Microeconomics,Program Core
+Bachelor of Economics (Honours),ECON2006,Intermediate Econometrics,Program Core
+Bachelor of Economics (Honours),ECON3006,Econometrics,Program Core
+Bachelor of Economics (Honours),ECON3801,Economic Analysis,Program Core
+Bachelor of Economics (Honours),ECON4800,Economics Research Thesis,Program Core
+Bachelor of Economics (Honours),ECONX402,Macroeconomic Theory,Program Core
+Bachelor of Economics (Honours),ECONX401,Econometric Theory,Program Core
+Bachelor of Economics (Honours),ECONX403,Microeconomic Theory,Program Core
+Bachelor of Economics majoring in Advanced Analysis,ECON1000,Principles of Economics,Program Core
+Bachelor of Economics majoring in Advanced Analysis,ECON1012,Data Analytics,Program Core
+Bachelor of Economics majoring in Advanced Analysis,ECON2000,Intermediate Macroeconomics,Program Core
+Bachelor of Economics majoring in Advanced Analysis,ECON2001,Global Economic History,Program Core
+Bachelor of International Business,ACCT1004,OL Introductory Accounting,Program Core
+Bachelor of International Business,BUSI1039,Business Lifecycles,Program Core
+Bachelor of International Business,BUSI1040,OL Managing Organisations and People,Program Core
+Bachelor of International Business,BUSI2024,OL Business Operations Management,Program Core
+Bachelor of International Business,BUSI2025,OL Business Information Systems and Management,Program Core
+Bachelor of International Business,BUSI2052,OL Personal Professional Development,Program Core
+Bachelor of International Business,BUSI2053,OL Entrepreneurship Foundations and Mindset,Program Core
+Bachelor of International Business,BUSI3042,OL Strategic Management (UoA),Program Core
+Bachelor of International Business,BUSI3043,Managing Conflict and Change,Program Core
+Bachelor of International Business,BUSI3044,OL Systems Thinking for a Complex World,Program Core
+Bachelor of International Business,HRES3006,Human Resources Management,Program Core
+Bachelor of International Business,IBUS1001,OL International Business Environment (UoA),Program Core
+Bachelor of International Business,IBUS2006,OL International Business Operations (UoA),Program Core
+Bachelor of International Business,IBUS3007,OL Internationalisation of Small and Medium-sized Enterprises (UoA),Program Core
+Bachelor of International Business,IBUS3009,OL Managing Across Cultures (UoA),Program Core
+Bachelor of International Business,IBUS3010,OL Corporate Responsibility for Global Business,Program Core
+Bachelor of International Business,MARK1010,OL Introduction to Marketing,Program Core
+Bachelor of International Business,MARK1016,OL Building and Managing Brands,Program Core
+Bachelor of International Business,MARK3009,OL Marketing Communications in a Digital World,Program Core
+Bachelor of International Business,MARK3014,OL Marketing to the World,Program Core
+Bachelor of International Business,POLI2012,OL International Trade: Negotiations and Agreements,Program Core
+Bachelor of International Business,POLI2013,OL International Trade: Strategies and Opportunities,Program Core
+Bachelor of International Business,STAT1007,OL Data Analytics I,Program Core
+"Bachelor of Philosophy, Politics and Economics",ECON1000,Principles of Economics,Program Core
+"Bachelor of Philosophy, Politics and Economics",ECON1002,Introduction to Mathematical Economics,Program Core
+"Bachelor of Philosophy, Politics and Economics",ECON1012,Data Analytics,Program Core
+"Bachelor of Philosophy, Politics and Economics",ECON2000,Intermediate Macroeconomics,Program Core
+"Bachelor of Philosophy, Politics and Economics",ECON2003,Intermediate Applied Microeconomics,Program Core
+"Bachelor of Philosophy, Politics and Economics",PHIL1001,Philosophy: Big Questions,Program Core
+"Bachelor of Philosophy, Politics and Economics",PHIL2016,Ethical Theories: Their Foundations and Practical Applications,Program Core
+"Bachelor of Philosophy, Politics and Economics",POLI2003,Principles of Social Policy,Program Core
+"Bachelor of Philosophy, Politics and Economics",POLI3010,"Choices, Models, and Morals",Program Core
+"Bachelor of Philosophy, Politics and Economics",POLI4000,Introduction to Politics,Program Core
+"Bachelor of Philosophy, Politics and Economics",SOCI1006,The Anatomy of Social Problems: Social Critique and Policy,Program Core
+"Bachelor of Philosophy, Politics and Economics",SOCI2001,Passions and Interests: The History of Greed,Program Core
+"Bachelor of Philosophy, Politics and Economics",PHIL1002,Philosophy: Key Thinkers,Program Core
+"Bachelor of Philosophy, Politics and Economics",POLI1000,Introduction to Australian Politics,Program Core
+"Bachelor of Philosophy, Politics and Economics",ECON3800,Economic Policy Analysis,Program Core
+"Bachelor of Philosophy, Politics and Economics",SOCI2019,Professional Pathways and Destinations 2,Program Core

@@ -1,0 +1,986 @@
+{
+  "nodes": [
+    {
+      "id": "Bachelor of Accounting"
+    },
+    {
+      "id": "Bachelor of Business"
+    },
+    {
+      "id": "Bachelor of Business (Economics, Finance and Trade)"
+    },
+    {
+      "id": "Bachelor of Business (Financial Planning)"
+    },
+    {
+      "id": "Bachelor of Business (Management)"
+    },
+    {
+      "id": "Bachelor of Business majoring in Digital Business"
+    },
+    {
+      "id": "Bachelor of Business majoring in Human Resource Management"
+    },
+    {
+      "id": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy"
+    },
+    {
+      "id": "Bachelor of Business majoring in International Business"
+    },
+    {
+      "id": "Bachelor of Business majoring in Management"
+    },
+    {
+      "id": "Bachelor of Business majoring in Marketing"
+    },
+    {
+      "id": "Bachelor of Business majoring in Marketing and Design"
+    },
+    {
+      "id": "Bachelor of Business majoring in Procurement and Supply Chain Management"
+    },
+    {
+      "id": "Bachelor of Business majoring in Project Management"
+    },
+    {
+      "id": "Bachelor of Commerce majoring in Accounting"
+    },
+    {
+      "id": "Bachelor of Commerce majoring in Banking and Finance"
+    },
+    {
+      "id": "Bachelor of Commerce majoring in Business Analytics"
+    },
+    {
+      "id": "Bachelor of Commerce majoring in Financial Planning"
+    },
+    {
+      "id": "Bachelor of Commerce majoring in Property"
+    },
+    {
+      "id": "Bachelor of Digital Business"
+    },
+    {
+      "id": "Bachelor of Economics"
+    },
+    {
+      "id": "Bachelor of Economics (Honours)"
+    },
+    {
+      "id": "Bachelor of Economics majoring in Advanced Analysis"
+    },
+    {
+      "id": "Bachelor of International Business"
+    },
+    {
+      "id": "Bachelor of Philosophy, Politics and Economics"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Bachelor of Accounting",
+      "target": "Bachelor of Business (Financial Planning)",
+      "weight": 10
+    },
+    {
+      "source": "Bachelor of Accounting",
+      "target": "Bachelor of Business (Economics, Finance and Trade)",
+      "weight": 9
+    },
+    {
+      "source": "Bachelor of Accounting",
+      "target": "Bachelor of Business (Management)",
+      "weight": 6
+    },
+    {
+      "source": "Bachelor of Accounting",
+      "target": "Bachelor of Digital Business",
+      "weight": 5
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Digital Business",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Human Resource Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in International Business",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Marketing",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Marketing and Design",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business (Economics, Finance and Trade)",
+      "target": "Bachelor of Business (Financial Planning)",
+      "weight": 11
+    },
+    {
+      "source": "Bachelor of Business (Economics, Finance and Trade)",
+      "target": "Bachelor of Business (Management)",
+      "weight": 7
+    },
+    {
+      "source": "Bachelor of Business (Economics, Finance and Trade)",
+      "target": "Bachelor of Digital Business",
+      "weight": 6
+    },
+    {
+      "source": "Bachelor of Business (Financial Planning)",
+      "target": "Bachelor of Business (Management)",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Business (Financial Planning)",
+      "target": "Bachelor of Digital Business",
+      "weight": 6
+    },
+    {
+      "source": "Bachelor of Business (Management)",
+      "target": "Bachelor of Digital Business",
+      "weight": 9
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in Human Resource Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in International Business",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in Marketing",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in Marketing and Design",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Digital Business",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Business majoring in Marketing and Design",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Business majoring in Marketing",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Business majoring in Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Business majoring in International Business",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Human Resource Management",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Business majoring in Marketing and Design",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Business majoring in Marketing",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Business majoring in Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Business majoring in International Business",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Innovation, Entrepreneurship and Strategy",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Business majoring in Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Business majoring in Marketing and Design",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Business majoring in Marketing",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in International Business",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Business majoring in Marketing",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Business majoring in Marketing and Design",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Management",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Business majoring in Marketing and Design",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Marketing and Design",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Business majoring in Project Management",
+      "weight": 16
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Procurement and Supply Chain Management",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Commerce majoring in Accounting",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Business majoring in Project Management",
+      "target": "Bachelor of Economics",
+      "weight": 1
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Commerce majoring in Banking and Finance",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Accounting",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Banking and Finance",
+      "target": "Bachelor of Commerce majoring in Business Analytics",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Banking and Finance",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Banking and Finance",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Banking and Finance",
+      "target": "Bachelor of Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Banking and Finance",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Banking and Finance",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Banking and Finance",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Business Analytics",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Business Analytics",
+      "target": "Bachelor of Commerce majoring in Financial Planning",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Business Analytics",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Business Analytics",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Business Analytics",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Business Analytics",
+      "target": "Bachelor of Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Financial Planning",
+      "target": "Bachelor of Commerce majoring in Property",
+      "weight": 8
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Financial Planning",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Financial Planning",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Financial Planning",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Financial Planning",
+      "target": "Bachelor of Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Property",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Property",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Property",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Commerce majoring in Property",
+      "target": "Bachelor of Economics",
+      "weight": 2
+    },
+    {
+      "source": "Bachelor of Economics",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Economics",
+      "target": "Bachelor of Economics (Honours)",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Economics",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 3
+    },
+    {
+      "source": "Bachelor of Economics (Honours)",
+      "target": "Bachelor of Economics majoring in Advanced Analysis",
+      "weight": 4
+    },
+    {
+      "source": "Bachelor of Economics (Honours)",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 3
+    },
+    {
+      "source": "Bachelor of Economics majoring in Advanced Analysis",
+      "target": "Bachelor of Philosophy, Politics and Economics",
+      "weight": 3
+    }
+  ]
+}

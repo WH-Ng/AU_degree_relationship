@@ -1,0 +1,545 @@
+degree,section,course_code,course_name
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,ACCT1005,UO Accounting for Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,BUSI1030,UO Career Development in Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,BUSI2019,UO Management and Organisation
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,BUSI2021,UO Entrepreneurship for Social and Market Impact
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,BUSI3033,UO Strategic Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,ECON1010,UO Principles of Economics
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP1003,UO Fundamentals of Global Tourism & Hospitality
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP2006,UO Eventful Cities and Event Leveraging
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP2007,"UO Experiential Product Design for Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP2008,UO Foundations of Event Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP2009,UO Managing Hospitality Operations
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP3006,"UO Digital Technologies in Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP3007,UO Sustainable Tourism Destination Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,HOSP3008,"UO Tourism, Events and Hospitality Industry Research Project"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,IBUS3008,UO International Business Environments
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,INFO2022,UO Business Intelligence
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,LAWS1018,UO Business Law
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Core courses,MARK1013,UO Marketing Principles: Trading and Exchange
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,SOCI3014,UO Critical Approaches to Online Learning
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP1003,UO Fundamentals of Global Tourism & Hospitality
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2008,UO Foundations of Event Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,MARK1013,UO Marketing Principles: Trading and Exchange
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI1018,UO Business and Society
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,ACCT1005,UO Accounting for Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI1030,UO Career Development in Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,ECON1010,UO Principles of Economics
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI2019,UO Management and Organisation
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2007,"UO Experiential Product Design for Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2009,UO Managing Hospitality Operations
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,INFO2022,UO Business Intelligence
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI2021,UO Entrepreneurship for Social and Market Impact
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2006,UO Eventful Cities and Event Leveraging
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,LAWS1018,UO Business Law
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,-,Elective
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI3037,UO Business Practicum
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP3006,"UO Digital Technologies in Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,IBUS3008,UO International Business Environments
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,-,Elective
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI3033,UO Strategic Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP3007,UO Sustainable Tourism Destination Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP3008,"UO Tourism, Events and Hospitality Industry Research Project"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,-,Elective
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives,SOCI3014,UO Critical Approaches to Online Learning
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives,AUXX1011,Elective 1
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT1005,UO Accounting for Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT1006,UO Financial Accounting 1
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT2003,UO Financial Accounting 2
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT2004,UO Management Accounting
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT3003,UO Auditing Theory and Practice
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT3004,UO Contemporary Issues in Accounting
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT3005,UO Financial Accounting 3
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ACCT3006,UO Sustainability Accounting and Reporting
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI1003,UO Financial Markets and Institutions
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI1004,UO Personal Finance
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI2016,UO Introduction to Financial Planning
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI2025,UO Business Finance
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI3008,UO Applied Financial Planning
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI3009,UO Estate Planning
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI3010,UO Portfolio and Fund Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI3011,UO Risk Management and Insurance
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI3012,UO Superannuation
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BAFI3013,UO International Currency and Banking Markets
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI1018,UO Business and Society
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI1019,UO Exploring Digital Technology in Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI1020,UO Introduction to Digital Disruption in Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI1022,UO Foundations of Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI1023,UO Introduction to Human Behaviour
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI1030,UO Career Development in Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI2014,UO Designing Digital Solutions
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI2016,Business International Study Tour
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI2017,UO Organisational Behaviour
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI2019,UO Management and Organisation
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI2020,UO Project Management: Principles and Strategies
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI2021,UO Entrepreneurship for Social and Market Impact
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI2023,UO Digital Solution Methodologies
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3025,UO Digital Business Solutions
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3026,UO Digital Business Value
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3028,UO Managing the Employment Relationship
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3029,UO Strategic Human Resource Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3030,UO International Management Ethics and Values
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3031,UO Managing Decision Making
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3032,UO Organisational Leadership
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3033,UO Strategic Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3034,UO Strategic Financial Analysis
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3035,UO Organisational Entrepreneurship
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3036,UO Business Internship 30 Days
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3037,UO Business Practicum
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3040,UO Solving Business Challenges
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI3041,UO Virtual Industry Internship
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI5065,UO Applying Digital Technologies in Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI5066,UO Delivering Digital Transformation
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI5067,UO Leading Digital Innovation
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,BUSI5068,UO Prototyping a Digital Solution
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ECON1010,UO Principles of Economics
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ECON1011,UO Macroeconomics
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ECON2007,UO Economic Analysis of Business Decisions
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ECON2008,UO Empirical Business Analysis
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ECON2009,UO Growth Development and the Macroeconomy
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ECON3007,UO Economics of Public Policy
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,ECON3008,UO International Economics
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP1003,UO Fundamentals of Global Tourism & Hospitality
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP2006,UO Eventful Cities and Event Leveraging
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP2007,"UO Experiential Product Design for Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP2008,UO Foundations of Event Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP2009,UO Managing Hospitality Operations
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP3006,"UO Digital Technologies in Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP3007,UO Sustainable Tourism Destination Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,HOSP3008,"UO Tourism, Events and Hospitality Industry Research Project"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK1011,UO Consumer Behaviour
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK1012,UO Professional Development in Marketing
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK1013,UO Marketing Principles: Trading and Exchange
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK1014,UO Public Relations: Theory and Practice
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK2008,UO Advertising
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK2009,UO Marketing Analytics
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK2010,UO Market Research
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK2011,UO Retailing
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK2012,UO Marketing for Health and Wellbeing
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK3010,UO Branding
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK3011,UO Essentials of Marketing Planning
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK3012,UO Integrated Marketing
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Program electives - Business,MARK3013,UO Digital Marketing
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",BUSI2020,UO Project Management: Principles and Strategies
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",BUSI3030,UO International Management Ethics and Values
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",BUSI3031,UO Managing Decision Making
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",BUSI3035,UO Organisational Entrepreneurship
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",BUSI3041,UO Virtual Industry Internship
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",COMM1008,UO Communication and Media
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",COMM1009,UO Introduction to Social Media
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",MARK1011,UO Consumer Behaviour
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",MARK1014,UO Public Relations: Theory and Practice
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",MARK2009,UO Marketing Analytics
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",MARK2010,UO Market Research
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",MARK3013,UO Digital Marketing
+"Bachelor of Business (Tourism, Events and Hospitality Management)","Program electives - Tourism, Events and Hospitality",MDIA1013,UO Introduction to Digital Media
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,SOCI3014,UO Critical Approaches to Online Learning
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP1003,UO Fundamentals of Global Tourism & Hospitality
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2008,UO Foundations of Event Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,MARK1013,UO Marketing Principles: Trading and Exchange
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI1018,UO Business and Society
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,ACCT1005,UO Accounting for Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI1030,UO Career Development in Business
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,ECON1010,UO Principles of Economics
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI2019,UO Management and Organisation
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2007,"UO Experiential Product Design for Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2009,UO Managing Hospitality Operations
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,INFO2022,UO Business Intelligence
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI2021,UO Entrepreneurship for Social and Market Impact
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP2006,UO Eventful Cities and Event Leveraging
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,LAWS1018,UO Business Law
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,-,Elective
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI3037,UO Business Practicum
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP3006,"UO Digital Technologies in Tourism, Events and Hospitality"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,IBUS3008,UO International Business Environments
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,-,Elective
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,BUSI3033,UO Strategic Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP3007,UO Sustainable Tourism Destination Management
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,HOSP3008,"UO Tourism, Events and Hospitality Industry Research Project"
+"Bachelor of Business (Tourism, Events and Hospitality Management)",Standard study plans,-,Elective
+Bachelor of Business majoring in Sport Management,Common core,COREX001,An Ethically Rich Life
+Bachelor of Business majoring in Sport Management,Common core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Business majoring in Sport Management,Common core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Business majoring in Sport Management,Common core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Business majoring in Sport Management,Common core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Business majoring in Sport Management,Common core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Business majoring in Sport Management,Program core,ACCT1000,Accounting for Decision Makers
+Bachelor of Business majoring in Sport Management,Program core,BUSI1002,"Management, Organisations and Leadership"
+Bachelor of Business majoring in Sport Management,Program core,BUSI2001,"Emerging Technologies, Data and Business Analytics"
+Bachelor of Business majoring in Sport Management,Program core,MARK1000,Marketing Principles
+Bachelor of Business majoring in Sport Management,Program core selectives,BUSI1001,Business Law
+Bachelor of Business majoring in Sport Management,Program core selectives,BUSI2002,"Negotiation, Conflict Management and Resolution"
+Bachelor of Business majoring in Sport Management,Program core selectives,BUSI3013,Strategic Management
+Bachelor of Business majoring in Sport Management,Program core selectives,ECON1000,Principles of Economics
+Bachelor of Business majoring in Sport Management,Program core selectives,MDIA2021,Research Methods in Media and Communication
+Bachelor of Business majoring in Sport Management,Program core selectives,MDIA2022,"Media Law, Policy and Ethics"
+Bachelor of Business majoring in Sport Management,Program core selectives,MDIA2102,Promotional Culture
+Bachelor of Business majoring in Sport Management,Program core selectives,MDIA3017,Strategic Planning for Media and Communication
+Bachelor of Business majoring in Sport Management,Program core selectives,GRAP1004,Digital Design Principles and Methods
+Bachelor of Business majoring in Sport Management,Program core selectives,PROJ1000,Foundations of Project Management
+Bachelor of Business majoring in Sport Management,Program core selectives,PROJ1001,Scheduling and Cost Management
+Bachelor of Business majoring in Sport Management,Program core selectives,PROJ3006,Project Logistics and Supply Chains
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR1000,Fundamentals of Sport and Recreation
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR2000,Sport Health and Wellbeing
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR2001,Commercial Operations and Marketing in Sport
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR2002,Sport in Contemporary Society
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR3001,Managing the Athletic Pathway
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR3002,Sport Planning in Local Communities
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR3003,Sport Management and Digitalisation
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR3004,Sport Governance and Leadership
+Bachelor of Business majoring in Sport Management,Rules and notes,BUSI1005,eChallenge
+Bachelor of Business majoring in Sport Management,Rules and notes,BUSI2900,WIL/ Profession
+Bachelor of Business majoring in Sport Management,Rules and notes,BUSI2901,WIL / Profession
+Bachelor of Business majoring in Sport Management,Rules and notes,BUSI2007,Business Lifecycles
+Bachelor of Business majoring in Sport Management,Rules and notes,BUSI2390,WIL (Procurement and Supply Chain Management)
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR2900,Sport Practicum 1
+Bachelor of Business majoring in Sport Management,Rules and notes,SPOR3900,Sport Practicum 2
+Bachelor of Business majoring in Sport Management,Rules and notes,MARK3900,Integrated Marketing
+Bachelor of Business majoring in Sport Management,Rules and notes,MDIA3016,Strategic Communication in Practice
+Bachelor of Business majoring in Sport Management,Rules and notes,PROJ2900,WIL
+Bachelor of Business majoring in Sport Management,Rules and notes,PROJ3000,Project Management Professional Practice
+Bachelor of Business majoring in Sport Management,Elective - Open,AUXX1011,Elective 1
+Bachelor of Business majoring in Sport Management,Elective - Open,AUXX1012,Elective 2
+Bachelor of Business majoring in Sport Management,Elective - Open,AUXX1013,Elective 3
+Bachelor of Business majoring in Sport Management,Elective - Open,AUXX1014,Elective 4
+Bachelor of Business majoring in Sport Management,Program electives - Procurement and Supply Chain Management major,BUSI3009,Negotiated Project in the Bachelor of Business (P and SCM)
+Bachelor of Business majoring in Sport Management,Program electives - Procurement and Supply Chain Management major,IBUS2000,International Business Environment
+Bachelor of Business majoring in Sport Management,Program electives - Procurement and Supply Chain Management major,IBUS2002,International Human Resource Management
+Bachelor of Business majoring in Sport Management,Program electives - Project Management major,PROJ3001,Project Procurement and Resourcing
+Bachelor of Business majoring in Sport Management,Program electives - Project Management major,PROJ3004,Leadership in Stakeholder Management
+Bachelor of Business majoring in Sport Management,Progam electives -  Marketing and Communication major,MARK3023,Service Design and Marketing
+Bachelor of Business majoring in Sport Management,Program electives - Marketing and Design major,MARK3023,Service Design and Marketing
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Common core,COREX001,An Ethically Rich Life
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Common core,COREX002,Fact or Fiction: Data for Everyone
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Common core,COREX003,Igniting Change: Ideas to Action
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Common core,COREX004,"Proppa Ways, Future Practice"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Common core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Common core,COREX006,"Ways of Being, Ways of Seeing"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core,ACCT1000,Accounting for Decision Makers
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core,BUSI1002,"Management, Organisations and Leadership"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core,BUSI2001,"Emerging Technologies, Data and Business Analytics"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core,MARK1000,Marketing Principles
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,BUSI1001,Business Law
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,BUSI2002,"Negotiation, Conflict Management and Resolution"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,BUSI3013,Strategic Management
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,ECON1000,Principles of Economics
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,MDIA2021,Research Methods in Media and Communication
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,MDIA2022,"Media Law, Policy and Ethics"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,MDIA2102,Promotional Culture
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,MDIA3017,Strategic Planning for Media and Communication
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,GRAP1004,Digital Design Principles and Methods
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,PROJ1000,Foundations of Project Management
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,PROJ1001,Scheduling and Cost Management
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program core selectives,PROJ3006,Project Logistics and Supply Chains
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP1000,Fundamentals of Global Tourism and Hospitality
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP1001,Foundations of Event Management
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP2001,Managing Hospitality Operations
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP2002,"Experiential Product Design for Tourism, Events and Hospitality"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP3002,Eventful Cities and Event Leveraging
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP3003,Sustainable Tourism Destination Management
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP3004,"Digital Technologies in Tourism, Events and Hospitality"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,HOSP3005,"Tourism, Events and Hospitality Industry Research Project"
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,BUSI1005,eChallenge
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,BUSI2900,WIL/ Profession
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,BUSI2901,WIL / Profession
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,BUSI2007,Business Lifecycles
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,BUSI2390,WIL (Procurement and Supply Chain Management)
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,SPOR2900,Sport Practicum 1
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,SPOR3900,Sport Practicum 2
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,MARK3900,Integrated Marketing
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,MDIA3016,Strategic Communication in Practice
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,PROJ2900,WIL
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Rules and notes,PROJ3000,Project Management Professional Practice
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Elective - Open,AUXX1011,Elective 1
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Elective - Open,AUXX1012,Elective 2
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Elective - Open,AUXX1013,Elective 3
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Elective - Open,AUXX1014,Elective 4
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program electives - Procurement and Supply Chain Management major,BUSI3009,Negotiated Project in the Bachelor of Business (P and SCM)
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program electives - Procurement and Supply Chain Management major,IBUS2000,International Business Environment
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program electives - Procurement and Supply Chain Management major,IBUS2002,International Human Resource Management
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program electives - Project Management major,PROJ3001,Project Procurement and Resourcing
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program electives - Project Management major,PROJ3004,Leadership in Stakeholder Management
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Progam electives -  Marketing and Communication major,MARK3023,Service Design and Marketing
+"Bachelor of Business majoring in Tourism, Events and Hospitality Management",Program electives - Marketing and Design major,MARK3023,Service Design and Marketing
+Bachelor of Creative Arts majoring in Festivals,Common core,COREX001,An Ethically Rich Life
+Bachelor of Creative Arts majoring in Festivals,Common core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Creative Arts majoring in Festivals,Common core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Creative Arts majoring in Festivals,Common core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Creative Arts majoring in Festivals,Common core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Creative Arts majoring in Festivals,Common core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Creative Arts majoring in Festivals,Program core,CREA1000,"Creative Worlds: Industries, Identities and Opportunities"
+Bachelor of Creative Arts majoring in Festivals,Program core,CREA2001,Creative Solutions: Reimagining Projects
+Bachelor of Creative Arts majoring in Festivals,Program core,HOSP1001,Foundations of Event Management
+Bachelor of Creative Arts majoring in Festivals,Program core,HOSP2003,The Adelaide Festival Experience
+Bachelor of Creative Arts majoring in Festivals,Program core,HOSP2004,Festivals Operations Management
+Bachelor of Creative Arts majoring in Festivals,Program core,HOSP2005,"Creative Tourism: Food, Wine and Festivals"
+Bachelor of Creative Arts majoring in Festivals,Program core,CREA3000,"Curation, Performance and Exhibition"
+Bachelor of Creative Arts majoring in Festivals,Program core,HOSP3001,Introduction to Festivals
+Bachelor of Creative Arts majoring in Festivals,Program core,HOSP3002,Eventful Cities and Event Leveraging
+Bachelor of Creative Arts majoring in Festivals,Program core,SOCI3001,Film Festival Cultures
+Bachelor of Creative Arts majoring in Festivals,Program core,CREA3901,Creative Arts Professional Experience
+Bachelor of Creative Arts majoring in Festivals,Program core,COMIBCRAR,Comicbook Creation
+Bachelor of Creative Arts majoring in Festivals,Program core,PERFBCRAR,Performing Arts
+Bachelor of Creative Arts majoring in Festivals,Program core,CREIBCRAR,Creative Industries
+Bachelor of Creative Arts majoring in Festivals,Program core,CREWBCRAR,Creative Writing
+Bachelor of Creative Arts majoring in Festivals,Program core,DIGMBCRAR,Digital Media and Web Design
+Bachelor of Creative Arts majoring in Festivals,Program core,GAMEBCRAR,Games Design and Production
+Bachelor of Creative Arts majoring in Festivals,Program core,IMEDBCRAR,Immersive Media
+Bachelor of Creative Arts majoring in Festivals,Program core,SCRPBCRAR,Screen Production
+Bachelor of Exercise and Sport Science,Electives,BIOL1006,Human Anatomy 100
+Bachelor of Exercise and Sport Science,Electives,BIOL1020,Physiology Essentials 100
+Bachelor of Exercise and Sport Science,Electives,EDUC3050,Exercise Prescription and Delivery 1
+Bachelor of Exercise and Sport Science,Electives,EDUC3051,Exercise Prescription and Delivery 2
+Bachelor of Exercise and Sport Science,Electives,HBIO1000,Exercise Physiology 1
+Bachelor of Exercise and Sport Science,Electives,HBIO2059,Exercise Physiology 2
+Bachelor of Exercise and Sport Science,Electives,HBIO2061,Motor Control and Learning
+Bachelor of Exercise and Sport Science,Electives,HLTH1003,Physical Activity and Health
+Bachelor of Exercise and Sport Science,Electives,HLTH1011,"Foundations in Human Movement, Exercise and Sports Science"
+Bachelor of Exercise and Sport Science,Electives,HLTH1016,Introduction to Evidence Based Practice and Research in Health Sciences
+Bachelor of Exercise and Sport Science,Electives,HLTH1051,Functional Anatomy
+Bachelor of Exercise and Sport Science,Electives,HLTH3005,"Health, Exercise and Sport Psychology"
+Bachelor of Exercise and Sport Science,Electives,HLTH3011,Exercise and Sport Science Project Design
+Bachelor of Exercise and Sport Science,Electives,HLTH3013,"Sociology of Health, Physical Activity and Sport"
+Bachelor of Exercise and Sport Science,Electives,HUMV1001,Motor Development and Ageing
+Bachelor of Exercise and Sport Science,Electives,HUMV2002,Biomechanics of Human Movement
+Bachelor of Exercise and Sport Science,Electives,NUTR2004,Human Nutrition
+Bachelor of Exercise and Sport Science,Electives,PSIO3002,Group and Team Leadership
+Bachelor of Exercise and Sport Science,Standard study plans,BIOL1006,Human Anatomy 100
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1011,"Foundations in Human Movement, Exercise and Sports Science"
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1003,Physical Activity and Health
+Bachelor of Exercise and Sport Science,Standard study plans,BIOL1020,Physiology Essentials 100
+Bachelor of Exercise and Sport Science,Standard study plans,PSIO3002,Group and Team Leadership
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1051,Functional Anatomy
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1016,Introduction to Evidence Based Practice and Research in Health Sciences
+Bachelor of Exercise and Sport Science,Standard study plans,HUMV1001,Motor Development and Ageing
+Bachelor of Exercise and Sport Science,Standard study plans,EDUC3050,Exercise Prescription and Delivery 1
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO1000,Exercise Physiology 1
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO2061,Motor Control and Learning
+Bachelor of Exercise and Sport Science,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Exercise and Sport Science,Standard study plans,EDUC3051,Exercise Prescription and Delivery 2
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3005,"Health, Exercise and Sport Psychology"
+Bachelor of Exercise and Sport Science,Standard study plans,HUMV2002,Biomechanics of Human Movement
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3012,Professional Practice in Exercise Science
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3011,Exercise and Sport Science Project Design
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3013,"Sociology of Health, Physical Activity and Sport"
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3012,Professional Practice in Exercise Science
+Bachelor of Exercise and Sport Science,Standard study plans,BIOL1006,Human Anatomy 100
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1011,"Foundations in Human Movement, Exercise and Sports Science"
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1003,Physical Activity and Health
+Bachelor of Exercise and Sport Science,Standard study plans,BIOL1020,Physiology Essentials 100
+Bachelor of Exercise and Sport Science,Standard study plans,PSIO3002,Group and Team Leadership
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1051,Functional Anatomy
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1016,Introduction to Evidence Based Practice and Research in Health Sciences
+Bachelor of Exercise and Sport Science,Standard study plans,HUMV1001,Motor Development and Ageing
+Bachelor of Exercise and Sport Science,Standard study plans,EDUC3050,Exercise Prescription and Delivery 1
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO1000,Exercise Physiology 1
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO2061,Motor Control and Learning
+Bachelor of Exercise and Sport Science,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Exercise and Sport Science,Standard study plans,EDUC3051,Exercise Prescription and Delivery 2
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3005,"Health, Exercise and Sport Psychology"
+Bachelor of Exercise and Sport Science,Standard study plans,HUMV2002,Biomechanics of Human Movement
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3012,Professional Practice in Exercise Science
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3011,Exercise and Sport Science Project Design
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3013,"Sociology of Health, Physical Activity and Sport"
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Program electives - Advanced Exercise and Sport Science,SOCI3003,Performance Analysis and Player Monitoring
+Bachelor of Exercise and Sport Science,Program electives - Advanced Exercise and Sport Science,HLTH1056,Advanced Exercise Assessment and Reasoning
+Bachelor of Exercise and Sport Science,Program electives - Advanced Exercise and Sport Science,HLTH3006,Anthropometry and Body Image
+Bachelor of Exercise and Sport Science,Program electives - Advanced Exercise and Sport Science,HUMV3000,Sports Biomechanics
+Bachelor of Exercise and Sport Science,Program electives - Advanced Exercise and Sport Science,HUMV3001,Human Movement Neuroscience
+Bachelor of Exercise and Sport Science,Program electives - Advanced Exercise and Sport Science,HUMV3006,"UO Adapted Physical Activity, Exercise and Sport"
+Bachelor of Exercise and Sport Science,Program electives - Advanced Exercise and Sport Science,PSIO3003,Applied Exercise Physiology
+Bachelor of Exercise and Sport Science,Program electives - Health and Physical Education,HLTH1004,Fitness and Lifestyle Management
+Bachelor of Exercise and Sport Science,Program electives - Health and Physical Education,HLTH1007,Principles of Teaching and Coaching
+Bachelor of Exercise and Sport Science,Program electives - Health and Physical Education,HLTH2004,Health Risks and Relationship Education
+Bachelor of Exercise and Sport Science,Program electives - Health and Physical Education,EDUC3021,Dance as Education and Recreation
+Bachelor of Exercise and Sport Science,Program electives - Health and Physical Education,EDUC3022,"Game, Sports Theory, Practice and Participation"
+Bachelor of Exercise and Sport Science,Program electives - Health and Physical Education,SPOR2005,Foundations of Outdoor Leadership
+Bachelor of Exercise and Sport Science,Program electives - Health Promotion,HLTH1010,Introduction to Public Health
+Bachelor of Exercise and Sport Science,Program electives - Health Promotion,HLTH1012,Health Systems and Services
+Bachelor of Exercise and Sport Science,Program electives - Health Promotion,HLTH1013,Health Promotion Concepts
+Bachelor of Exercise and Sport Science,Program electives - Health Promotion,HLTH2005,Designing and Managing Health Projects
+Bachelor of Exercise and Sport Science,Program electives - Health Promotion,HLTH3008,Public Health and Wellbeing Practice
+Bachelor of Exercise and Sport Science,Program electives - Nutrition,CHEM1005,Chemistry 100
+Bachelor of Exercise and Sport Science,Program electives - Nutrition,BIOL2032,Physiology
+Bachelor of Exercise and Sport Science,Program electives - Nutrition,HLTH3003,"Nutrition, Exercise and Weight Management"
+Bachelor of Exercise and Sport Science,Program electives - Nutrition,HLTH3004,Sports Nutrition
+Bachelor of Exercise and Sport Science,Program electives - Outdoor Education,INDG1003,"Aboriginal Health, Culture, Community, and Country"
+Bachelor of Exercise and Sport Science,Program electives - Outdoor Education,HLTH3009,Leadership in Terrestrial Environments
+Bachelor of Exercise and Sport Science,Program electives - Outdoor Education,HLTH3010,"Outdoor, Wilderness and Adventure Education"
+Bachelor of Exercise and Sport Science,Program electives - Outdoor Education,SPOR2005,Foundations of Outdoor Leadership
+Bachelor of Exercise and Sport Science,Program electives - Outdoor Education,SPOR3006,Leadership in Aquatic Environments
+Bachelor of Exercise and Sport Science,Program electives - Outdoor Education,SPOR3009,Professional Practice in Outdoor Leadership
+Bachelor of Exercise and Sport Science,Program electives - Rehabilitation Sciences,HLTH1008,Human Anatomy 101
+Bachelor of Exercise and Sport Science,Program electives - Rehabilitation Sciences,HLTH1056,Advanced Exercise Assessment and Reasoning
+Bachelor of Exercise and Sport Science,Program electives - Rehabilitation Sciences,BIOL2018,Human Anatomy 200
+Bachelor of Exercise and Sport Science,Program electives - Rehabilitation Sciences,HLTH3004,Sports Nutrition
+Bachelor of Exercise and Sport Science,Program electives - Rehabilitation Sciences,HLTH3006,Anthropometry and Body Image
+Bachelor of Exercise and Sport Science,Program electives - Rehabilitation Sciences,HUMV3001,Human Movement Neuroscience
+Bachelor of Exercise and Sport Science,Program electives - Rehabilitation Sciences,REHB3010,Pain Mechanisms and Management
+Bachelor of Exercise and Sport Science,Program electives - Sports Coaching,HLTH1007,Principles of Teaching and Coaching
+Bachelor of Exercise and Sport Science,Program electives - Sports Coaching,HLTH3004,Sports Nutrition
+Bachelor of Exercise and Sport Science,Program electives - Sports Coaching,HLTH3006,Anthropometry and Body Image
+Bachelor of Exercise and Sport Science,Program electives - Sports Coaching,SOCI3003,Performance Analysis and Player Monitoring
+Bachelor of Exercise and Sport Science,Program electives,BUSI2013,Small Business for Professionals
+Bachelor of Exercise and Sport Science,Program electives,HLTH3015,Cultural Experience in Health Science
+Bachelor of Exercise and Sport Science,Program electives,EDUC4024,"Peers, Relationships and Health"
+Bachelor of Exercise and Sport Science,Standard study plans,BIOL1006,Human Anatomy 100
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1011,"Foundations in Human Movement, Exercise and Sports Science"
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1003,Physical Activity and Health
+Bachelor of Exercise and Sport Science,Standard study plans,BIOL1020,Physiology Essentials 100
+Bachelor of Exercise and Sport Science,Standard study plans,PSIO3002,Group and Team Leadership
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1051,Functional Anatomy
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH1016,Introduction to Evidence Based Practice and Research in Health Sciences
+Bachelor of Exercise and Sport Science,Standard study plans,HUMV1001,Motor Development and Ageing
+Bachelor of Exercise and Sport Science,Standard study plans,EDUC3050,Exercise Prescription and Delivery 1
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO1000,Exercise Physiology 1
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO2061,Motor Control and Learning
+Bachelor of Exercise and Sport Science,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Exercise and Sport Science,Standard study plans,EDUC3051,Exercise Prescription and Delivery 2
+Bachelor of Exercise and Sport Science,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3005,"Health, Exercise and Sport Psychology"
+Bachelor of Exercise and Sport Science,Standard study plans,HUMV2002,Biomechanics of Human Movement
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3012,Professional Practice in Exercise Science
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3011,Exercise and Sport Science Project Design
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,HLTH3013,"Sociology of Health, Physical Activity and Sport"
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Exercise and Sport Science,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Common core,COREX001,An Ethically Rich Life
+Bachelor of Human Movement majoring in Sport Coaching,Common core,COREX002,Fact or Fiction: Data for Everyone
+Bachelor of Human Movement majoring in Sport Coaching,Common core,COREX003,Igniting Change: Ideas to Action
+Bachelor of Human Movement majoring in Sport Coaching,Common core,COREX004,"Proppa Ways, Future Practice"
+Bachelor of Human Movement majoring in Sport Coaching,Common core,COREX005,"Responsible AI: Bridging Ethics, Education and Industry"
+Bachelor of Human Movement majoring in Sport Coaching,Common core,COREX006,"Ways of Being, Ways of Seeing"
+Bachelor of Human Movement majoring in Sport Coaching,Program core,HBIO1000,Exercise Physiology 1
+Bachelor of Human Movement majoring in Sport Coaching,Program core,HBIO1002,Human Anatomy and Physiology A
+Bachelor of Human Movement majoring in Sport Coaching,Program core,HBIO1003,Human Anatomy and Physiology B
+Bachelor of Human Movement majoring in Sport Coaching,Program core,HBIO2061,Motor Control and Learning
+Bachelor of Human Movement majoring in Sport Coaching,Program core,HLTH1003,Physical Activity and Health
+Bachelor of Human Movement majoring in Sport Coaching,Program core,HUMV1001,Motor Development and Ageing
+Bachelor of Human Movement majoring in Sport Coaching,Program core,HUMV2002,Biomechanics of Human Movement
+Bachelor of Human Movement majoring in Sport Coaching,Program core,PSIO3002,Group and Team Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1002,Human Anatomy and Physiology A
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HLTH1003,Physical Activity and Health
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1003,Human Anatomy and Physiology B
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV1001,Motor Development and Ageing
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2004,Teaching and Coaching
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2003,Active Lifestyles
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1000,Exercise Physiology 1
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2061,Motor Control and Learning
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,EDUC3008,Sport Practice
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV2002,Biomechanics of Human Movement
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV3900,Human Movement Practicum
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SOCI3003,Performance Analysis and Player Monitoring
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSIO3002,Group and Team Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSYC3000,Sport Psychology
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR3004,Sport Governance and Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2003,Active Lifestyles
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2004,Teaching and Coaching
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,EDUC3008,Sport Practice
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SOCI3003,Performance Analysis and Player Monitoring
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSYC3000,Sport Psychology
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR3004,Sport Governance and Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1002,Human Anatomy and Physiology A
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HLTH1003,Physical Activity and Health
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1003,Human Anatomy and Physiology B
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV1001,Motor Development and Ageing
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2004,Teaching and Coaching
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2003,Active Lifestyles
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1000,Exercise Physiology 1
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2061,Motor Control and Learning
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,EDUC3008,Sport Practice
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV2002,Biomechanics of Human Movement
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV3900,Human Movement Practicum
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SOCI3003,Performance Analysis and Player Monitoring
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSIO3002,Group and Team Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSYC3000,Sport Psychology
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR3004,Sport Governance and Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV3900,Human Movement Practicum
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1002,Human Anatomy and Physiology A
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HLTH1003,Physical Activity and Health
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1003,Human Anatomy and Physiology B
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV1001,Motor Development and Ageing
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2004,Teaching and Coaching
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2003,Active Lifestyles
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1000,Exercise Physiology 1
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2061,Motor Control and Learning
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,EDUC3008,Sport Practice
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV2002,Biomechanics of Human Movement
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV3900,Human Movement Practicum
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SOCI3003,Performance Analysis and Player Monitoring
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSIO3002,Group and Team Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSYC3000,Sport Psychology
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR3004,Sport Governance and Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Program electives: Secondary Health and Physical Education major,BIOL2065,Coastal Environments
+Bachelor of Human Movement majoring in Sport Coaching,Program electives: Secondary Health and Physical Education major,SPOR3005,Leadership in Bush Environments
+Bachelor of Human Movement majoring in Sport Coaching,Program electives: Secondary Health and Physical Education major,SPOR3006,Leadership in Aquatic Environments
+Bachelor of Human Movement majoring in Sport Coaching,Program electives: Secondary Health and Physical Education major,SPOR3008,Outdoor Leadership for Country and Wellbeing
+Bachelor of Human Movement majoring in Sport Coaching,Program electives: Secondary Health and Physical Education major,SPOR3009,Professional Practice in Outdoor Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1002,Human Anatomy and Physiology A
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HLTH1003,Physical Activity and Health
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1003,Human Anatomy and Physiology B
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV1001,Motor Development and Ageing
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2004,Teaching and Coaching
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR2003,Active Lifestyles
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO1000,Exercise Physiology 1
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2061,Motor Control and Learning
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,EDUC3008,Sport Practice
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV2002,Biomechanics of Human Movement
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HBIO2059,Exercise Physiology 2
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Core course
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,NUTR2004,Human Nutrition
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,HUMV3900,Human Movement Practicum
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SOCI3003,Performance Analysis and Player Monitoring
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSIO3002,Group and Team Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,PSYC3000,Sport Psychology
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,SPOR3004,Sport Governance and Leadership
+Bachelor of Human Movement majoring in Sport Coaching,Standard study plans,-,Elective
